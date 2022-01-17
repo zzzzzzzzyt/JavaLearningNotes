@@ -1,2 +1,2 @@
-# -The-operating-system
+# The-operating-system
 Learning notes
