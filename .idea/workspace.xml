@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.3.21 ant i'm coming" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.3.22 修电脑 没什么能击败我的">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -141,7 +146,8 @@
       <workItem from="1647786150294" duration="178000" />
       <workItem from="1647821675974" duration="1500000" />
       <workItem from="1647863683452" duration="2127000" />
-      <workItem from="1647933380619" duration="233000" />
+      <workItem from="1647933380619" duration="960000" />
+      <workItem from="1647935134592" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.17更新操作系统笔记">
       <created>1642382443885</created>
@@ -444,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647871232346</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="2022.3.22 修电脑 没什么能击败我的">
+      <created>1647933725959</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1647933725959</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.3.1 三月第一天 恢复的还是差一点 加油吧 小曾" />
     <MESSAGE value="2022.3.2 白鸽进字节了 我也得加油了" />
     <MESSAGE value="2022.3.3 冲冲冲 写题要注意细枝末节 化繁为简" />
     <MESSAGE value="2022.3.4 加油 明天踏青 一定要保持状态 今天项目整理的还不错 做了大半年了 加油" />
@@ -509,6 +521,7 @@
     <MESSAGE value="2022.3.19 今天好疲惫 晚上回去调整状态" />
     <MESSAGE value="2022.3.20 明天组会 也估计要投了 冲吧bro" />
     <MESSAGE value="2022.3.21 ant i'm coming" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.3.21 ant i'm coming" />
+    <MESSAGE value="2022.3.22 修电脑 没什么能击败我的" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.3.22 修电脑 没什么能击败我的" />
   </component>
 </project>
