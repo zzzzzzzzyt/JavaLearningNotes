@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.3.22 加油 虽然电脑重装了">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.3.22 加油 虽然电脑重装了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +148,7 @@
       <workItem from="1647935134592" duration="4000" />
       <workItem from="1647958350995" duration="312000" />
       <workItem from="1647958685265" duration="759000" />
-      <workItem from="1647992802832" duration="348000" />
+      <workItem from="1647992802832" duration="868000" />
     </task>
     <task id="LOCAL-00001" summary="2022.1.17更新操作系统笔记">
       <created>1642382443885</created>
@@ -467,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647958467109</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2022.3.22 加油 虽然电脑重装了">
+      <created>1647993234548</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1647993234548</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
