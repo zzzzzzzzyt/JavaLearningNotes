@@ -1,5 +1,4 @@
 # java学习笔记
-<a href="https://github.com/zzzzzzzzyt/JavaLearningNotes"><img src="https://img.shields.io/github/stars/zzzzzzzzyt/JavaLearningNotes" alt="star"></a> <a href="http://www.onlyicanstopmyself.top/"><img src="https://img.shields.io/badge/blog-http%3A%2F%2Fwww.onlyicanstopmyself.top%2F-green" alt="博客"></a>
 
 囊括了大部分校招所需技术栈笔记，能较好的丰富你的知识体系，增长你的能力。
 
@@ -8,5 +7,5 @@
 
 you know "only you can stop yourself."
 
-
-![Alt](https://repobeats.axiom.co/api/embed/e19a23ac32abb2e860c02d1003c848b001c63b2b.svg "Repobeats analytics image")
+2022年实习秋招一定会大丰收的，坚持下去吧XDM!
+![image](https://user-images.githubusercontent.com/74845138/162624209-8f72adaf-bb11-4449-9f88-a75f2d0a0403.png)
