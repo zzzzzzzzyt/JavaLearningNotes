@@ -1,5 +1,5 @@
 # java学习笔记
-[](https://img.shields.io/github/stars/zzzzzzzzyt/JavaLearningNotes) [](https://img.shields.io/badge/blog-http%3A%2F%2Fwww.onlyicanstopmyself.top%2F-green)
+![Alt](https://img.shields.io/github/stars/zzzzzzzzyt/JavaLearningNotes) ![ALT](https://img.shields.io/badge/blog-http%3A%2F%2Fwww.onlyicanstopmyself.top%2F-green)
 囊括了大部分校招所需技术栈笔记，能较好的丰富你的知识体系，增长你的能力。
 
 刷题笔记 各个tag刷 top100 代码随想录 总有你想要的
