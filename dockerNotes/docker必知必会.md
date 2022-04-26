@@ -208,3 +208,54 @@
 - javaweb生成项目后默认的其实页是index.jsp和index.html
 
 - tomcat是热部署的
+
+- 自己push的镜像一定要带版本号     使用 docker tag 给镜像附上版本也可以一开始取名的时候就附上   前面一定是要自己`docker hub的用户名`/镜像名：版本号！
+
+- 除了推送到docker hub还有推送到阿里云上，阿里云推送有固定的方法
+
+- ![1650935337032](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650935337032.png)
+
+- `Docker 网络`
+
+- 容器和容器之间是可以互相ping通的
+
+- 容器和容器之间联通实际上是通过路由器相接    删掉对应的容器 网卡就会消失![1650939538442](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650939538442.png)
+  ![1650939727074](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650939727074.png)
+
+- ![1650939832717](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650939832717.png)
+
+- 通过服务名直接ping通  不用ip地址  这样有助于当我们对应的服务器ip地址进行更换 不用重启 修改
+
+- “hosts文件是一个用于储存计算机网络中各节点信息的计算机文件；作用是将一些常用的网址域名与其对应的IP地址建立一个关联“数据库”，当用户在浏览器中输入一个需要登录的网址时，系统会首先自动从Hosts文件中寻找对应的IP地址。”  所以很多代理映射都放到这里面   `docker中--link的操作就是在hosts配置中加了一个映射`  目前已经不建议使用--link了  而是使用自定义网络 不适用docker0  因为docker0不支持服务名访问
+
+- **网络模式**
+
+  - bridge  :  桥接 docker(默认，自己创建也使用桥接模式)
+  - none    :  不配置网络
+  - host     :   和宿主机共享网络
+  - container :   容器网络连同！(用的少！局限大)
+
+- ![1650941422023](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650941422023.png)![1650941385208](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650941385208.png)
+  直接启动 它会默认连接docker0   我们想用自己网络的话  可以创建一个网络  按照上面的方法启动
+
+  - docker0特点：默认，域名不能访问  能通过--link打通连接   有局限性
+  - 所以我们可以自定义网络
+
+- 
+  ![1650941832117](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650941832117.png)
+  自定义网络可以直接ping 名字
+
+- **网络联通   在不同网段中的容器是无法联通的**
+
+  ![1650946676275](C:\Users\asus\AppData\Roaming\Typora\typora-user-images\1650946676275.png)
+
+  联通了之后可以在对应的network inspect中看到    这就是一个容器 多个ip地址
+
+  `假如要跨网络操作别人，就需要使用 docker network connect联通`
+
+- 创建集群  看狂神笔记  玩玩看
+
+- 网关是实现不同网络之间的通信  像仅仅是搭建redis集群 可以不设置网关
+
+
+
