@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.3.22 加油 虽然电脑重装了" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.17 沉" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,9 +52,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -63,11 +64,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_code\JavaLearningNotes" />
       <recent name="D:\Java_code\JavaLearningNotes\leetcode" />
       <recent name="D:\Java_code\JavaLearningNotes\open source project learning method" />
       <recent name="D:\Java_code\JavaLearningNotes\java virtual machine" />
       <recent name="D:\Java_code\JavaLearningNotes\network of computer" />
-      <recent name="D:\Java_code\JavaLearningNotes\operation system" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java_code\JavaLearningNotes\leetcode" />
@@ -149,181 +150,40 @@
       <workItem from="1647958350995" duration="312000" />
       <workItem from="1647958685265" duration="759000" />
       <workItem from="1647992802832" duration="868000" />
-    </task>
-    <task id="LOCAL-00001" summary="2022.1.17更新操作系统笔记">
-      <created>1642382443885</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1642382443885</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2022.1.17更新计算机网络学习笔记">
-      <created>1642382995365</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1642382995365</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2022.1.17更新操作系统学习笔记">
-      <created>1642383188544</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1642383188544</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2022.1.17更新操作系统学习笔记">
-      <created>1642383237583</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1642383237583</updated>
-    </task>
-    <task id="LOCAL-00005" summary="2022.1.17更新java虚拟机学习笔记">
-      <created>1642384689991</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1642384689991</updated>
-    </task>
-    <task id="LOCAL-00006" summary="2022.2.20更新java虚拟机学习笔记 将所刷力扣题目 顺序次数更新">
-      <created>1645321670980</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1645321670980</updated>
-    </task>
-    <task id="LOCAL-00007" summary="2022.2.20更新java虚拟机学习笔记，将所刷力扣题目，顺序次数更新。新增开源项目学习方法。">
-      <created>1645323367684</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1645323367684</updated>
-    </task>
-    <task id="LOCAL-00008" summary="2022.2.21 持续刷题，将春节的懒散打破，捡起之前的题目">
-      <created>1645432363303</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1645432363303</updated>
-    </task>
-    <task id="LOCAL-00009" summary="2022.2.21 持续刷题，将春节的懒散打破，捡起之前的题目">
-      <created>1645432707465</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1645432707465</updated>
-    </task>
-    <task id="LOCAL-00010" summary="2022.2.22 小论文第四版了  持续刷题bro">
-      <created>1645519087820</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1645519087820</updated>
-    </task>
-    <task id="LOCAL-00011" summary="2022.2.23 二叉树复习">
-      <created>1645626336536</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1645626336536</updated>
-    </task>
-    <task id="LOCAL-00012" summary="2022.2.24 搜索二叉树性质 有点忘记了 卡了很久晚上">
-      <created>1645712469719</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1645712469719</updated>
-    </task>
-    <task id="LOCAL-00013" summary="2022.2.25 去老师公司了 文章改好了 明天继续努力准备面试bro">
-      <created>1645799173908</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1645799173908</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2022.2.26 回溯明天争取复习结束">
-      <created>1645885201839</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1645885201839</updated>
-    </task>
-    <task id="LOCAL-00015" summary="2022.2.27 今天学的少  生病了 明天恢复 全力冲刺">
-      <created>1645967166030</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1645967166030</updated>
-    </task>
-    <task id="LOCAL-00016" summary="2022.2.28 今天还是主要以恢复状态为主。明天就三月了，加油吧">
-      <created>1646058024184</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1646058024184</updated>
-    </task>
-    <task id="LOCAL-00017" summary="2022.3.1 三月第一天 恢复的还是差一点 加油吧 小曾">
-      <created>1646144299708</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1646144299708</updated>
-    </task>
-    <task id="LOCAL-00018" summary="2022.3.2 白鸽进字节了 我也得加油了">
-      <created>1646231187892</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1646231187892</updated>
-    </task>
-    <task id="LOCAL-00019" summary="2022.3.3 冲冲冲 写题要注意细枝末节 化繁为简">
-      <created>1646317486209</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1646317486209</updated>
-    </task>
-    <task id="LOCAL-00020" summary="2022.3.4 加油 明天踏青 一定要保持状态 今天项目整理的还不错 做了大半年了 加油">
-      <created>1646403850287</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1646403850287</updated>
-    </task>
-    <task id="LOCAL-00021" summary="2022.3.5 三月已经过去1/6了 坚持  义无反顾理想无需多言">
-      <created>1646442973589</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1646442973590</updated>
-    </task>
-    <task id="LOCAL-00022" summary="2022.3.5 努力努力再努力 上午再看看项目">
-      <created>1646446498336</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1646446498337</updated>
-    </task>
-    <task id="LOCAL-00023" summary="2022.3.6 和兄弟们大西北见了">
-      <created>1646576513051</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1646576513051</updated>
-    </task>
-    <task id="LOCAL-00024" summary="2022.3.7 状态也太差了 刷题">
-      <created>1646662932826</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662932826</updated>
-    </task>
-    <task id="LOCAL-00025" summary="2022.3.8 妇女节快乐 继续加油">
-      <created>1646749480731</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1646749480732</updated>
+      <workItem from="1651109439354" duration="397000" />
+      <workItem from="1651112163979" duration="1196000" />
+      <workItem from="1651156139357" duration="108000" />
+      <workItem from="1651220256824" duration="873000" />
+      <workItem from="1651325895555" duration="223000" />
+      <workItem from="1651383131509" duration="81000" />
+      <workItem from="1651489200525" duration="79000" />
+      <workItem from="1651536887115" duration="13000" />
+      <workItem from="1651587548003" duration="110000" />
+      <workItem from="1651669999126" duration="950000" />
+      <workItem from="1651673262299" duration="37000" />
+      <workItem from="1651726446996" duration="693000" />
+      <workItem from="1651847006727" duration="236000" />
+      <workItem from="1651886346208" duration="37000" />
+      <workItem from="1651892864157" duration="67000" />
+      <workItem from="1651933419867" duration="43000" />
+      <workItem from="1651989279917" duration="85000" />
+      <workItem from="1652018487201" duration="714000" />
+      <workItem from="1652054724656" duration="1287000" />
+      <workItem from="1652192230328" duration="608000" />
+      <workItem from="1652193015551" duration="44000" />
+      <workItem from="1652227591804" duration="1100000" />
+      <workItem from="1652279400838" duration="53000" />
+      <workItem from="1652313845481" duration="1505000" />
+      <workItem from="1652365714558" duration="36000" />
+      <workItem from="1652400506810" duration="1248000" />
+      <workItem from="1652429435703" duration="97000" />
+      <workItem from="1652448103567" duration="398000" />
+      <workItem from="1652449532883" duration="4000" />
+      <workItem from="1652489671150" duration="678000" />
+      <workItem from="1652574686387" duration="1222000" />
+      <workItem from="1652661408670" duration="747000" />
+      <workItem from="1652676110489" duration="768000" />
+      <workItem from="1652746612795" duration="1238000" />
     </task>
     <task id="LOCAL-00026" summary="2022.3.9 钥匙丢了 头疼">
       <created>1646835816710</created>
@@ -472,7 +332,203 @@
       <option name="project" value="LOCAL" />
       <updated>1647993234548</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2022.4.28 冲">
+      <created>1651109731246</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1651109731247</updated>
+    </task>
+    <task id="LOCAL-00048" summary="2022.4.28 求婚加油">
+      <created>1651156190186</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1651156190186</updated>
+    </task>
+    <task id="LOCAL-00049" summary="2022.4.29 放假">
+      <created>1651220292434</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1651220292434</updated>
+    </task>
+    <task id="LOCAL-00050" summary="2022.4.29 放假">
+      <created>1651228785449</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1651228785459</updated>
+    </task>
+    <task id="LOCAL-00051" summary="2022.4.30 四月的最后一天">
+      <created>1651325953600</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1651325953600</updated>
+    </task>
+    <task id="LOCAL-00052" summary="2022.5.1 新的开始 就两个月了">
+      <created>1651383201523</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1651383201524</updated>
+    </task>
+    <task id="LOCAL-00053" summary="2022.5.2 休息一下 明日冲刺">
+      <created>1651489264517</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1651489264518</updated>
+    </task>
+    <task id="LOCAL-00054" summary="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组">
+      <created>1651587650695</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1651587650695</updated>
+    </task>
+    <task id="LOCAL-00055" summary="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组">
+      <created>1651673280774</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1651673280778</updated>
+    </task>
+    <task id="LOCAL-00056" summary="2022.5.5 更新操作系统阅读时的查漏补缺">
+      <created>1651726559460</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1651726559460</updated>
+    </task>
+    <task id="LOCAL-00057" summary="2022.5.6 怎么说呢 调整状态吧，最近感觉偏浪费时间在">
+      <created>1651847123622</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1651847123622</updated>
+    </task>
+    <task id="LOCAL-00058" summary="2022.5.7 keeper going">
+      <created>1651892893728</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1651892893728</updated>
+    </task>
+    <task id="LOCAL-00059" summary="2022.5.7 思想要活泛">
+      <created>1651933452067</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1651933452067</updated>
+    </task>
+    <task id="LOCAL-00060" summary="2022.5.8 状态调整并提升 bro">
+      <created>1651989365932</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1651989365933</updated>
+    </task>
+    <task id="LOCAL-00061" summary="2022.5.8 状态调整并提升 bro">
+      <created>1652018602887</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1652018602888</updated>
+    </task>
+    <task id="LOCAL-00062" summary="2022.5.9">
+      <created>1652062195632</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1652062195633</updated>
+    </task>
+    <task id="LOCAL-00063" summary="2022.5.10 冲">
+      <created>1652193042562</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1652193042562</updated>
+    </task>
+    <task id="LOCAL-00064" summary="2022.5.11 时间不多了">
+      <created>1652228001664</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1652228001664</updated>
+    </task>
+    <task id="LOCAL-00065" summary="2022.5.11 focus on">
+      <created>1652238369525</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1652238369525</updated>
+    </task>
+    <task id="LOCAL-00066" summary="2022.5.11 努力了要 juan">
+      <created>1652279426854</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1652279426854</updated>
+    </task>
+    <task id="LOCAL-00067" summary="2022.5.12 汶川地震过去14年了">
+      <created>1652321711636</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1652321711637</updated>
+    </task>
+    <task id="LOCAL-00068" summary="2022.5.12 要好好刷题 调整状态了">
+      <created>1652365741110</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1652365741110</updated>
+    </task>
+    <task id="LOCAL-00069" summary="2022.5.13 回暖 状态 少玩手机">
+      <created>1652408023218</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1652408023218</updated>
+    </task>
+    <task id="LOCAL-00070" summary="2022.5.13 寻找开源项目">
+      <created>1652448472896</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1652448472897</updated>
+    </task>
+    <task id="LOCAL-00071" summary="2022.5.14 开始了 你们的噩梦">
+      <created>1652496383178</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1652496383180</updated>
+    </task>
+    <task id="LOCAL-00072" summary="2022.5.15  kings back">
+      <created>1652580884861</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1652580884861</updated>
+    </task>
+    <task id="LOCAL-00073" summary="2022.5.16 沉下来">
+      <created>1652666012845</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1652666012845</updated>
+    </task>
+    <task id="LOCAL-00074" summary="2022.5.17 沉">
+      <created>1652752759298</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1652752759299</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,31 +568,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.3.3 冲冲冲 写题要注意细枝末节 化繁为简" />
-    <MESSAGE value="2022.3.4 加油 明天踏青 一定要保持状态 今天项目整理的还不错 做了大半年了 加油" />
-    <MESSAGE value="2022.3.5 三月已经过去1/6了 坚持  义无反顾理想无需多言" />
-    <MESSAGE value="2022.3.5 努力努力再努力 上午再看看项目" />
-    <MESSAGE value="2022.3.6 和兄弟们大西北见了" />
-    <MESSAGE value="2022.3.7 状态也太差了 刷题" />
-    <MESSAGE value="2022.3.8 妇女节快乐 继续加油" />
-    <MESSAGE value="2022.3.9 钥匙丢了 头疼" />
-    <MESSAGE value="2022.3.10 温州疫情新增两例  温州加油 今天写了篇原创哈哈" />
-    <MESSAGE value="2022.3.11 up" />
-    <MESSAGE value="2022.3.12 加油加油 礼拜一要开始写专利了" />
-    <MESSAGE value="2022.3.13 《zyt状态》  明天要去老师那边了 加油吧" />
-    <MESSAGE value="2022.3.14 去和达城吃了个饭 明天加油 要写专利了 明天全力状态" />
-    <MESSAGE value="2022.3.14 恢复恢复" />
-    <MESSAGE value="2022.3.15 test" />
-    <MESSAGE value="2022.3.15 try my best" />
-    <MESSAGE value="2022.3.16 明天要更努力" />
-    <MESSAGE value="2022.3.17 困难困难 加魔加蓝" />
-    <MESSAGE value="2022.3.18 困难困难 加魔加蓝 昨天咋没提交上呢" />
-    <MESSAGE value="2022.3.18  我该冲了" />
-    <MESSAGE value="2022.3.19 今天好疲惫 晚上回去调整状态" />
-    <MESSAGE value="2022.3.20 明天组会 也估计要投了 冲吧bro" />
-    <MESSAGE value="2022.3.21 ant i'm coming" />
-    <MESSAGE value="2022.3.22 修电脑 没什么能击败我的" />
-    <MESSAGE value="2022.3.22 加油 虽然电脑重装了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.3.22 加油 虽然电脑重装了" />
+    <MESSAGE value="2022.4.28 冲" />
+    <MESSAGE value="2022.4.28 求婚加油" />
+    <MESSAGE value="2022.4.29 放假" />
+    <MESSAGE value="2022.4.30 四月的最后一天" />
+    <MESSAGE value="2022.5.1 新的开始 就两个月了" />
+    <MESSAGE value="2022.5.2 休息一下 明日冲刺" />
+    <MESSAGE value="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组" />
+    <MESSAGE value="2022.5.5 更新操作系统阅读时的查漏补缺" />
+    <MESSAGE value="2022.5.6 怎么说呢 调整状态吧，最近感觉偏浪费时间在" />
+    <MESSAGE value="2022.5.7 keeper going" />
+    <MESSAGE value="2022.5.7 思想要活泛" />
+    <MESSAGE value="2022.5.8 状态调整并提升 bro" />
+    <MESSAGE value="2022.5.9" />
+    <MESSAGE value="2022.5.10 冲" />
+    <MESSAGE value="2022.5.11 时间不多了" />
+    <MESSAGE value="2022.5.11 focus on" />
+    <MESSAGE value="2022.5.11 努力了要 juan" />
+    <MESSAGE value="2022.5.12 汶川地震过去14年了" />
+    <MESSAGE value="2022.5.12 要好好刷题 调整状态了" />
+    <MESSAGE value="2022.5.13 回暖 状态 少玩手机" />
+    <MESSAGE value="2022.5.13 寻找开源项目" />
+    <MESSAGE value="2022.5.14 开始了 你们的噩梦" />
+    <MESSAGE value="2022.5.15  kings back" />
+    <MESSAGE value="2022.5.16 沉下来" />
+    <MESSAGE value="2022.5.17 沉" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.17 沉" />
   </component>
 </project>
