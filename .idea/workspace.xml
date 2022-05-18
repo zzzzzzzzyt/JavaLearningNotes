@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.17 沉" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.17 暂停下 今日找bug找太久了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,13 +184,7 @@
       <workItem from="1652661408670" duration="747000" />
       <workItem from="1652676110489" duration="768000" />
       <workItem from="1652746612795" duration="1238000" />
-    </task>
-    <task id="LOCAL-00026" summary="2022.3.9 钥匙丢了 头疼">
-      <created>1646835816710</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1646835816710</updated>
+      <workItem from="1652795133549" duration="119000" />
     </task>
     <task id="LOCAL-00027" summary="2022.3.10 温州疫情新增两例  温州加油 今天写了篇原创哈哈">
       <created>1646922386118</created>
@@ -528,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652752759299</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="2022.5.17 暂停下 今日找bug找太久了">
+      <created>1652795242945</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1652795242945</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.4.28 冲" />
     <MESSAGE value="2022.4.28 求婚加油" />
     <MESSAGE value="2022.4.29 放假" />
     <MESSAGE value="2022.4.30 四月的最后一天" />
@@ -593,6 +593,7 @@
     <MESSAGE value="2022.5.15  kings back" />
     <MESSAGE value="2022.5.16 沉下来" />
     <MESSAGE value="2022.5.17 沉" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.17 沉" />
+    <MESSAGE value="2022.5.17 暂停下 今日找bug找太久了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.17 暂停下 今日找bug找太久了" />
   </component>
 </project>
