@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.18">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.18" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,14 +185,7 @@
       <workItem from="1652676110489" duration="768000" />
       <workItem from="1652746612795" duration="1238000" />
       <workItem from="1652795133549" duration="119000" />
-      <workItem from="1652832312115" duration="1264000" />
-    </task>
-    <task id="LOCAL-00028" summary="2022.3.11 up">
-      <created>1647008781003</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1647008781003</updated>
+      <workItem from="1652832312115" duration="1909000" />
     </task>
     <task id="LOCAL-00029" summary="2022.3.12 加油加油 礼拜一要开始写专利了">
       <created>1647094889865</created>
@@ -532,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652832366219</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="2022.5.18">
+      <created>1652840419540</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1652840419540</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
