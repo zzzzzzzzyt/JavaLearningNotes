@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.19 go">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.20 冲" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,14 +190,7 @@
       <workItem from="1652919201887" duration="1225000" />
       <workItem from="1652965803251" duration="19000" />
       <workItem from="1652965830649" duration="1691000" />
-      <workItem from="1653005087537" duration="2398000" />
-    </task>
-    <task id="LOCAL-00034" summary="2022.3.15 test">
-      <created>1647328980332</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1647328980332</updated>
+      <workItem from="1653005087537" duration="2768000" />
     </task>
     <task id="LOCAL-00035" summary="2022.3.15 test">
       <created>1647329117590</created>
@@ -537,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652970227241</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="2022.5.20 冲">
+      <created>1653022559559</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1653022559560</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.1 新的开始 就两个月了" />
     <MESSAGE value="2022.5.2 休息一下 明日冲刺" />
     <MESSAGE value="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组" />
     <MESSAGE value="2022.5.5 更新操作系统阅读时的查漏补缺" />
@@ -602,6 +599,7 @@
     <MESSAGE value="2022.5.18" />
     <MESSAGE value="2022.5.18 加油" />
     <MESSAGE value="2022.5.19 go" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.19 go" />
+    <MESSAGE value="2022.5.20 冲" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.20 冲" />
   </component>
 </project>
