@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.21 禁止失眠" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.21 保持刷题">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,13 +194,8 @@
       <workItem from="1652965830649" duration="1691000" />
       <workItem from="1653005087537" duration="2768000" />
       <workItem from="1653095093695" duration="703000" />
-    </task>
-    <task id="LOCAL-00036" summary="2022.3.15 try my best">
-      <created>1647354436013</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1647354436014</updated>
+      <workItem from="1653113387727" duration="119000" />
+      <workItem from="1653180136142" duration="3000" />
     </task>
     <task id="LOCAL-00037" summary="2022.3.16 明天要更努力😊">
       <created>1647440414395</created>
@@ -536,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653095231167</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="2022.5.21 保持刷题">
+      <created>1653113426542</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1653113426542</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -576,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组" />
     <MESSAGE value="2022.5.5 更新操作系统阅读时的查漏补缺" />
     <MESSAGE value="2022.5.6 怎么说呢 调整状态吧，最近感觉偏浪费时间在" />
     <MESSAGE value="2022.5.7 keeper going" />
@@ -601,6 +604,7 @@
     <MESSAGE value="2022.5.19 go" />
     <MESSAGE value="2022.5.20 冲" />
     <MESSAGE value="2022.5.21 禁止失眠" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.21 禁止失眠" />
+    <MESSAGE value="2022.5.21 保持刷题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.21 保持刷题" />
   </component>
 </project>
