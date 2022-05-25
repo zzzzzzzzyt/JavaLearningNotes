@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.22 保持、前进" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.23 step by step">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,13 +197,10 @@
       <workItem from="1653113387727" duration="119000" />
       <workItem from="1653180136142" duration="3000" />
       <workItem from="1653198737887" duration="129000" />
-    </task>
-    <task id="LOCAL-00038" summary="2022.3.17 困难困难 加魔加蓝">
-      <created>1647526723037</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1647526723037</updated>
+      <workItem from="1653271891635" duration="94000" />
+      <workItem from="1653305964990" duration="777000" />
+      <workItem from="1653355310697" duration="1785000" />
+      <workItem from="1653360646426" duration="3000" />
     </task>
     <task id="LOCAL-00039" summary="2022.3.18 困难困难 加魔加蓝 昨天咋没提交上呢">
       <created>1647597242330</created>
@@ -539,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653198850632</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="2022.5.23 step by step">
+      <created>1653271977227</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1653271977228</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -579,7 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.6 怎么说呢 调整状态吧，最近感觉偏浪费时间在" />
     <MESSAGE value="2022.5.7 keeper going" />
     <MESSAGE value="2022.5.7 思想要活泛" />
     <MESSAGE value="2022.5.8 状态调整并提升 bro" />
@@ -604,6 +609,7 @@
     <MESSAGE value="2022.5.21 禁止失眠" />
     <MESSAGE value="2022.5.21 保持刷题" />
     <MESSAGE value="2022.5.22 保持、前进" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.22 保持、前进" />
+    <MESSAGE value="2022.5.23 step by step" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.23 step by step" />
   </component>
 </project>
