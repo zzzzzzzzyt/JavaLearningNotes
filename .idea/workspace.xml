@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.23 step by step">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.25 step by step">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,13 +201,8 @@
       <workItem from="1653305964990" duration="777000" />
       <workItem from="1653355310697" duration="1785000" />
       <workItem from="1653360646426" duration="3000" />
-    </task>
-    <task id="LOCAL-00039" summary="2022.3.18 困难困难 加魔加蓝 昨天咋没提交上呢">
-      <created>1647597242330</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1647597242330</updated>
+      <workItem from="1653452584282" duration="394000" />
+      <workItem from="1653523980015" duration="2214000" />
     </task>
     <task id="LOCAL-00040" summary="2022.3.18  我该冲了">
       <created>1647613217053</created>
@@ -545,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653271977228</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="2022.5.25 step by step">
+      <created>1653452690289</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1653452690290</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.7 keeper going" />
     <MESSAGE value="2022.5.7 思想要活泛" />
     <MESSAGE value="2022.5.8 状态调整并提升 bro" />
     <MESSAGE value="2022.5.9" />
@@ -610,6 +611,7 @@
     <MESSAGE value="2022.5.21 保持刷题" />
     <MESSAGE value="2022.5.22 保持、前进" />
     <MESSAGE value="2022.5.23 step by step" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.23 step by step" />
+    <MESSAGE value="2022.5.25 step by step" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.25 step by step" />
   </component>
 </project>
