@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.27 relaxing" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.28" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,13 +203,7 @@
       <workItem from="1653523980015" duration="2277000" />
       <workItem from="1653635898072" duration="780000" />
       <workItem from="1653641377067" duration="84000" />
-    </task>
-    <task id="LOCAL-00042" summary="2022.3.20 明天组会 也估计要投了 冲吧bro">
-      <created>1647786248693</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1647786248694</updated>
+      <workItem from="1653706238198" duration="91000" />
     </task>
     <task id="LOCAL-00043" summary="2022.3.21 ant i'm coming">
       <created>1647871232346</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653641462104</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="2022.5.28">
+      <created>1653706340408</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1653706340408</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,7 +588,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.9" />
     <MESSAGE value="2022.5.10 冲" />
     <MESSAGE value="2022.5.11 时间不多了" />
     <MESSAGE value="2022.5.11 focus on" />
@@ -612,6 +612,7 @@
     <MESSAGE value="2022.5.25 step by step" />
     <MESSAGE value="2022.5.26 威士汀自助" />
     <MESSAGE value="2022.5.27 relaxing" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.27 relaxing" />
+    <MESSAGE value="2022.5.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.28" />
   </component>
 </project>
