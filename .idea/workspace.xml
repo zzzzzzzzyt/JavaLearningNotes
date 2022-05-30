@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.28" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.29 婚礼日 没学习五天纪念日" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,13 +204,7 @@
       <workItem from="1653635898072" duration="780000" />
       <workItem from="1653641377067" duration="84000" />
       <workItem from="1653706238198" duration="91000" />
-    </task>
-    <task id="LOCAL-00043" summary="2022.3.21 ant i'm coming">
-      <created>1647871232346</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1647871232346</updated>
+      <workItem from="1653792189477" duration="109000" />
     </task>
     <task id="LOCAL-00044" summary="2022.3.22 修电脑 没什么能击败我的">
       <created>1647933725959</created>
@@ -548,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653706340408</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="2022.5.29 婚礼日 没学习五天纪念日">
+      <created>1653792271845</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1653792271845</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.10 冲" />
     <MESSAGE value="2022.5.11 时间不多了" />
     <MESSAGE value="2022.5.11 focus on" />
     <MESSAGE value="2022.5.11 努力了要 juan" />
@@ -613,6 +613,7 @@
     <MESSAGE value="2022.5.26 威士汀自助" />
     <MESSAGE value="2022.5.27 relaxing" />
     <MESSAGE value="2022.5.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.28" />
+    <MESSAGE value="2022.5.29 婚礼日 没学习五天纪念日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.29 婚礼日 没学习五天纪念日" />
   </component>
 </project>
