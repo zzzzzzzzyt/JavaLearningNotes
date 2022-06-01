@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.29 婚礼日 没学习五天纪念日" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.5.30 没学习六天纪念日">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,13 +208,9 @@
       <workItem from="1653641377067" duration="84000" />
       <workItem from="1653706238198" duration="91000" />
       <workItem from="1653792189477" duration="109000" />
-    </task>
-    <task id="LOCAL-00044" summary="2022.3.22 修电脑 没什么能击败我的">
-      <created>1647933725959</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1647933725959</updated>
+      <workItem from="1653908330759" duration="248000" />
+      <workItem from="1654045623353" duration="18000" />
+      <workItem from="1654082623079" duration="1787000" />
     </task>
     <task id="LOCAL-00045" summary="2022.3.22 加油 虽然电脑重装了">
       <created>1647958467109</created>
@@ -549,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653792271845</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="2022.5.30 没学习六天纪念日">
+      <created>1653908420330</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1653908420330</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.11 时间不多了" />
     <MESSAGE value="2022.5.11 focus on" />
     <MESSAGE value="2022.5.11 努力了要 juan" />
     <MESSAGE value="2022.5.12 汶川地震过去14年了" />
@@ -614,6 +619,7 @@
     <MESSAGE value="2022.5.27 relaxing" />
     <MESSAGE value="2022.5.28" />
     <MESSAGE value="2022.5.29 婚礼日 没学习五天纪念日" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.5.29 婚礼日 没学习五天纪念日" />
+    <MESSAGE value="2022.5.30 没学习六天纪念日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.5.30 没学习六天纪念日" />
   </component>
 </project>
