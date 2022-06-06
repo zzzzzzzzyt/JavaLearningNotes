@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.5 周赛最后题要敢去想">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.6 清晨刷题 思路清晰">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -219,13 +219,7 @@
       <workItem from="1654352906328" duration="68000" />
       <workItem from="1654390580489" duration="112000" />
       <workItem from="1654403868282" duration="215000" />
-    </task>
-    <task id="LOCAL-00051" summary="2022.4.30 四月的最后一天">
-      <created>1651325953600</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1651325953600</updated>
+      <workItem from="1654484916468" duration="1257000" />
     </task>
     <task id="LOCAL-00052" summary="2022.5.1 新的开始 就两个月了">
       <created>1651383201523</created>
@@ -563,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654404012632</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="2022.6.6 清晨刷题 思路清晰">
+      <created>1654484972160</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1654484972160</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.13 寻找开源项目" />
     <MESSAGE value="2022.5.14 开始了 你们的噩梦" />
     <MESSAGE value="2022.5.15  kings back" />
     <MESSAGE value="2022.5.16 沉下来" />
@@ -628,6 +628,7 @@
     <MESSAGE value="2022.6.2 no time waste" />
     <MESSAGE value="2022.6.4 保持状态 认真学习" />
     <MESSAGE value="2022.6.5 周赛最后题要敢去想" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.5 周赛最后题要敢去想" />
+    <MESSAGE value="2022.6.6 清晨刷题 思路清晰" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.6 清晨刷题 思路清晰" />
   </component>
 </project>
