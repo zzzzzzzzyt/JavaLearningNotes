@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.4 保持状态 认真学习">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.5 周赛最后题要敢去想">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -218,13 +218,7 @@
       <workItem from="1654215204609" duration="419000" />
       <workItem from="1654352906328" duration="68000" />
       <workItem from="1654390580489" duration="112000" />
-    </task>
-    <task id="LOCAL-00050" summary="2022.4.29 放假">
-      <created>1651228785449</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1651228785459</updated>
+      <workItem from="1654403868282" duration="215000" />
     </task>
     <task id="LOCAL-00051" summary="2022.4.30 四月的最后一天">
       <created>1651325953600</created>
@@ -562,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654352952820</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="2022.6.5 周赛最后题要敢去想">
+      <created>1654404012631</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1654404012632</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +603,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.13 回暖 状态 少玩手机" />
     <MESSAGE value="2022.5.13 寻找开源项目" />
     <MESSAGE value="2022.5.14 开始了 你们的噩梦" />
     <MESSAGE value="2022.5.15  kings back" />
@@ -627,6 +627,7 @@
     <MESSAGE value="2022.6.2 新的一天" />
     <MESSAGE value="2022.6.2 no time waste" />
     <MESSAGE value="2022.6.4 保持状态 认真学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.4 保持状态 认真学习" />
+    <MESSAGE value="2022.6.5 周赛最后题要敢去想" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.5 周赛最后题要敢去想" />
   </component>
 </project>
