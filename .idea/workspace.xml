@@ -57,7 +57,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../music-website/music-server" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -219,21 +219,9 @@
       <workItem from="1654352906328" duration="68000" />
       <workItem from="1654390580489" duration="112000" />
       <workItem from="1654403868282" duration="215000" />
-      <workItem from="1654484916468" duration="1257000" />
-    </task>
-    <task id="LOCAL-00052" summary="2022.5.1 新的开始 就两个月了">
-      <created>1651383201523</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1651383201524</updated>
-    </task>
-    <task id="LOCAL-00053" summary="2022.5.2 休息一下 明日冲刺">
-      <created>1651489264517</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1651489264518</updated>
+      <workItem from="1654484916468" duration="1555000" />
+      <workItem from="1654512184640" duration="52000" />
+      <workItem from="1654562143047" duration="19000" />
     </task>
     <task id="LOCAL-00054" summary="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组">
       <created>1651587650695</created>
@@ -564,7 +552,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654484972160</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="2022.6.6 清晨刷题 思路清晰">
+      <created>1654490041405</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1654490041405</updated>
+    </task>
+    <task id="LOCAL-00102" summary="2022.6.6 清晨刷题 思路清晰">
+      <created>1654512199333</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1654512199333</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
