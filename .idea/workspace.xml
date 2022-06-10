@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.6 清晨刷题 思路清晰">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../music-website/music-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -222,13 +222,8 @@
       <workItem from="1654484916468" duration="1555000" />
       <workItem from="1654512184640" duration="52000" />
       <workItem from="1654562143047" duration="19000" />
-    </task>
-    <task id="LOCAL-00054" summary="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组">
-      <created>1651587650695</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1651587650695</updated>
+      <workItem from="1654576853989" duration="55000" />
+      <workItem from="1654871080291" duration="325000" />
     </task>
     <task id="LOCAL-00055" summary="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组">
       <created>1651673280774</created>
@@ -566,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654512199333</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习">
+      <created>1654576898255</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1654576898255</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -606,7 +608,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.14 开始了 你们的噩梦" />
     <MESSAGE value="2022.5.15  kings back" />
     <MESSAGE value="2022.5.16 沉下来" />
     <MESSAGE value="2022.5.17 沉" />
@@ -631,6 +632,7 @@
     <MESSAGE value="2022.6.4 保持状态 认真学习" />
     <MESSAGE value="2022.6.5 周赛最后题要敢去想" />
     <MESSAGE value="2022.6.6 清晨刷题 思路清晰" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.6 清晨刷题 思路清晰" />
+    <MESSAGE value="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习" />
   </component>
 </project>
