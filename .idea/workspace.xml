@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.10 打完收工">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,14 +223,9 @@
       <workItem from="1654512184640" duration="52000" />
       <workItem from="1654562143047" duration="19000" />
       <workItem from="1654576853989" duration="55000" />
-      <workItem from="1654871080291" duration="325000" />
-    </task>
-    <task id="LOCAL-00055" summary="2022.5.3 明天五一最后一天，进入netty，科研也开始弄，还有小林的图解、计组">
-      <created>1651673280774</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1651673280778</updated>
+      <workItem from="1654871080291" duration="493000" />
+      <workItem from="1654905635688" duration="681000" />
+      <workItem from="1654935290626" duration="2000" />
     </task>
     <task id="LOCAL-00056" summary="2022.5.5 更新操作系统阅读时的查漏补缺">
       <created>1651726559460</created>
@@ -568,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654576898255</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="2022.6.10 打完收工">
+      <created>1654871568653</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1654871568653</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +610,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.15  kings back" />
     <MESSAGE value="2022.5.16 沉下来" />
     <MESSAGE value="2022.5.17 沉" />
     <MESSAGE value="2022.5.17 暂停下 今日找bug找太久了" />
@@ -633,6 +634,7 @@
     <MESSAGE value="2022.6.5 周赛最后题要敢去想" />
     <MESSAGE value="2022.6.6 清晨刷题 思路清晰" />
     <MESSAGE value="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习" />
+    <MESSAGE value="2022.6.10 打完收工" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.10 打完收工" />
   </component>
 </project>
