@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.10 打完收工">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.11 休息一下晚上">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,13 +226,8 @@
       <workItem from="1654871080291" duration="493000" />
       <workItem from="1654905635688" duration="681000" />
       <workItem from="1654935290626" duration="2000" />
-    </task>
-    <task id="LOCAL-00056" summary="2022.5.5 更新操作系统阅读时的查漏补缺">
-      <created>1651726559460</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1651726559460</updated>
+      <workItem from="1654956274718" duration="128000" />
+      <workItem from="1655189622279" duration="73000" />
     </task>
     <task id="LOCAL-00057" summary="2022.5.6 怎么说呢 调整状态吧，最近感觉偏浪费时间在">
       <created>1651847123622</created>
@@ -570,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654871568653</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="2022.6.11 休息一下晚上">
+      <created>1654956375922</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1654956375922</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -610,7 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.16 沉下来" />
     <MESSAGE value="2022.5.17 沉" />
     <MESSAGE value="2022.5.17 暂停下 今日找bug找太久了" />
     <MESSAGE value="2022.5.18" />
@@ -635,6 +636,7 @@
     <MESSAGE value="2022.6.6 清晨刷题 思路清晰" />
     <MESSAGE value="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习" />
     <MESSAGE value="2022.6.10 打完收工" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.10 打完收工" />
+    <MESSAGE value="2022.6.11 休息一下晚上" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.11 休息一下晚上" />
   </component>
 </project>
