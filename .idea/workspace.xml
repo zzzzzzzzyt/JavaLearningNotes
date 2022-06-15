@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.11 休息一下晚上">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.14 what can I say 抓紧" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,13 +226,7 @@
       <workItem from="1654935290626" duration="2000" />
       <workItem from="1654956274718" duration="128000" />
       <workItem from="1655189622279" duration="73000" />
-    </task>
-    <task id="LOCAL-00057" summary="2022.5.6 怎么说呢 调整状态吧，最近感觉偏浪费时间在">
-      <created>1651847123622</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1651847123622</updated>
+      <workItem from="1655216943546" duration="102000" />
     </task>
     <task id="LOCAL-00058" summary="2022.5.7 keeper going">
       <created>1651892893728</created>
@@ -572,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654956375922</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="2022.6.14 what can I say 抓紧">
+      <created>1655217026031</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1655217026031</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.17 沉" />
     <MESSAGE value="2022.5.17 暂停下 今日找bug找太久了" />
     <MESSAGE value="2022.5.18" />
     <MESSAGE value="2022.5.18 加油" />
@@ -637,6 +635,7 @@
     <MESSAGE value="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习" />
     <MESSAGE value="2022.6.10 打完收工" />
     <MESSAGE value="2022.6.11 休息一下晚上" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.11 休息一下晚上" />
+    <MESSAGE value="2022.6.14 what can I say 抓紧" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.14 what can I say 抓紧" />
   </component>
 </project>
