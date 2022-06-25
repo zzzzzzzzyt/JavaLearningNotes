@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.19 项目暂时就不继续弄了 因为去到实习肯定是有相应的项目经验给到">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.23 冲">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,13 +238,7 @@
       <workItem from="1655627508939" duration="487000" />
       <workItem from="1655633324626" duration="101000" />
       <workItem from="1655908270726" duration="4000" />
-    </task>
-    <task id="LOCAL-00063" summary="2022.5.10 冲">
-      <created>1652193042562</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1652193042562</updated>
+      <workItem from="1655944362125" duration="800000" />
     </task>
     <task id="LOCAL-00064" summary="2022.5.11 时间不多了">
       <created>1652228001664</created>
@@ -582,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655633406433</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="2022.6.23 冲">
+      <created>1655945904159</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1655945904160</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.20 冲" />
     <MESSAGE value="2022.5.21 禁止失眠" />
     <MESSAGE value="2022.5.21 保持刷题" />
     <MESSAGE value="2022.5.22 保持、前进" />
@@ -647,6 +647,7 @@
     <MESSAGE value="2022.6.16 望好运" />
     <MESSAGE value="2022.6.18 就等入职预约了 好好干！" />
     <MESSAGE value="2022.6.19 项目暂时就不继续弄了 因为去到实习肯定是有相应的项目经验给到" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.19 项目暂时就不继续弄了 因为去到实习肯定是有相应的项目经验给到" />
+    <MESSAGE value="2022.6.23 冲" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.23 冲" />
   </component>
 </project>
