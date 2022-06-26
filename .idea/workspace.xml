@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.25 这下真的是玩够了 我要开始努力了">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.26 周赛这次怎么回事 一题选手？反省一下" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,13 +239,7 @@
       <workItem from="1655944362125" duration="800000" />
       <workItem from="1656122955646" duration="669000" />
       <workItem from="1656142549181" duration="142000" />
-    </task>
-    <task id="LOCAL-00065" summary="2022.5.11 focus on">
-      <created>1652238369525</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1652238369525</updated>
+      <workItem from="1656219595192" duration="98000" />
     </task>
     <task id="LOCAL-00066" summary="2022.5.11 努力了要 juan">
       <created>1652279426854</created>
@@ -585,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656124200540</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="2022.6.26 周赛这次怎么回事 一题选手？反省一下">
+      <created>1656219657877</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1656219657878</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.21 保持刷题" />
     <MESSAGE value="2022.5.22 保持、前进" />
     <MESSAGE value="2022.5.23 step by step" />
     <MESSAGE value="2022.5.25 step by step" />
@@ -650,6 +648,7 @@
     <MESSAGE value="2022.6.19 项目暂时就不继续弄了 因为去到实习肯定是有相应的项目经验给到" />
     <MESSAGE value="2022.6.23 冲" />
     <MESSAGE value="2022.6.25 这下真的是玩够了 我要开始努力了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.25 这下真的是玩够了 我要开始努力了" />
+    <MESSAGE value="2022.6.26 周赛这次怎么回事 一题选手？反省一下" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.26 周赛这次怎么回事 一题选手？反省一下" />
   </component>
 </project>
