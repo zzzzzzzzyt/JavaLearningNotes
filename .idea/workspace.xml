@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.28 全力曾" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.28 全力曾">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,13 +245,7 @@
       <workItem from="1656231752663" duration="72000" />
       <workItem from="1656327229819" duration="277000" />
       <workItem from="1656387480943" duration="2570000" />
-    </task>
-    <task id="LOCAL-00069" summary="2022.5.13 回暖 状态 少玩手机">
-      <created>1652408023218</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1652408023218</updated>
+      <workItem from="1656398964567" duration="589000" />
     </task>
     <task id="LOCAL-00070" summary="2022.5.13 寻找开源项目">
       <created>1652448472896</created>
@@ -587,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656398612739</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="2022.6.28 全力曾">
+      <created>1656399110846</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1656399110846</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
