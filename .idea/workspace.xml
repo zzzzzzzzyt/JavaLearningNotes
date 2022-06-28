@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.28 全力曾">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.28 全力曾" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,14 +242,7 @@
       <workItem from="1656219595192" duration="98000" />
       <workItem from="1656231752663" duration="72000" />
       <workItem from="1656327229819" duration="277000" />
-      <workItem from="1656387480943" duration="1933000" />
-    </task>
-    <task id="LOCAL-00068" summary="2022.5.12 要好好刷题 调整状态了">
-      <created>1652365741110</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1652365741110</updated>
+      <workItem from="1656387480943" duration="2570000" />
     </task>
     <task id="LOCAL-00069" summary="2022.5.13 回暖 状态 少玩手机">
       <created>1652408023218</created>
@@ -590,7 +580,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656327518247</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="2022.6.28 全力曾">
+      <created>1656398612738</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1656398612739</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
