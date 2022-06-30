@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.29 在外面住 啥事都能遇见 但要保持镇静">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.6.30 加油 难题现在就周赛刷 剑指哪些简单的多来几遍 比如说代码随想录">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -250,13 +250,7 @@
       <workItem from="1656429588315" duration="14000" />
       <workItem from="1656505428044" duration="1394000" />
       <workItem from="1656588565691" duration="78000" />
-    </task>
-    <task id="LOCAL-00072" summary="2022.5.15  kings back">
-      <created>1652580884861</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1652580884861</updated>
+      <workItem from="1656596074540" duration="693000" />
     </task>
     <task id="LOCAL-00073" summary="2022.5.16 沉下来">
       <created>1652666012845</created>
@@ -594,7 +588,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656510920637</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="2022.6.30 加油 难题现在就周赛刷 剑指哪些简单的多来几遍 比如说代码随想录">
+      <created>1656596134413</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1656596134418</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.5.28" />
     <MESSAGE value="2022.5.29 婚礼日 没学习五天纪念日" />
     <MESSAGE value="2022.5.30 没学习六天纪念日" />
     <MESSAGE value="2022.6.1 King is back!" />
@@ -659,6 +659,7 @@
     <MESSAGE value="2022.6.28 全力曾" />
     <MESSAGE value="2022.6.28 好好上班 好好科研 好好准备秋招" />
     <MESSAGE value="2022.6.29 在外面住 啥事都能遇见 但要保持镇静" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.6.29 在外面住 啥事都能遇见 但要保持镇静" />
+    <MESSAGE value="2022.6.30 加油 难题现在就周赛刷 剑指哪些简单的多来几遍 比如说代码随想录" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.6.30 加油 难题现在就周赛刷 剑指哪些简单的多来几遍 比如说代码随想录" />
   </component>
 </project>
