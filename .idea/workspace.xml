@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.5 加油！">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.6 小曾无敌">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,13 +260,8 @@
       <workItem from="1656977394525" duration="1043000" />
       <workItem from="1657033721873" duration="123000" />
       <workItem from="1657063565660" duration="16000" />
-    </task>
-    <task id="LOCAL-00079" summary="2022.5.19 go">
-      <created>1652926208211</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1652926208212</updated>
+      <workItem from="1657066299694" duration="66000" />
+      <workItem from="1657116390522" duration="847000" />
     </task>
     <task id="LOCAL-00080" summary="2022.5.19 go">
       <created>1652965812420</created>
@@ -604,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657033809491</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="2022.7.6 小曾无敌">
+      <created>1657066343685</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1657066343685</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,7 +646,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.6.6 清晨刷题 思路清晰" />
     <MESSAGE value="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习" />
     <MESSAGE value="2022.6.10 打完收工" />
     <MESSAGE value="2022.6.11 休息一下晚上" />
@@ -669,6 +670,7 @@
     <MESSAGE value="2022.7.4 保持状态 工作学习科研" />
     <MESSAGE value="2022.7.5 keep!" />
     <MESSAGE value="2022.7.5 加油！" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.5 加油！" />
+    <MESSAGE value="2022.7.6 小曾无敌" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.6 小曾无敌" />
   </component>
 </project>
