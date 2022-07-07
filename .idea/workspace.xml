@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.6 接触到代码了 就开始有意思了">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.7 开始有意思了 小曾">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -262,14 +262,8 @@
       <workItem from="1657063565660" duration="16000" />
       <workItem from="1657066299694" duration="66000" />
       <workItem from="1657116390522" duration="892000" />
-      <workItem from="1657150347093" duration="844000" />
-    </task>
-    <task id="LOCAL-00081" summary="2022.5.19 go">
-      <created>1652965933414</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1652965933414</updated>
+      <workItem from="1657150347093" duration="886000" />
+      <workItem from="1657203044575" duration="671000" />
     </task>
     <task id="LOCAL-00082" summary="2022.5.19 go">
       <created>1652970227241</created>
@@ -607,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657119002009</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="2022.7.7 开始有意思了 小曾">
+      <created>1657152616441</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1657152616441</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -647,7 +648,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.6.10 打完收工" />
     <MESSAGE value="2022.6.11 休息一下晚上" />
     <MESSAGE value="2022.6.14 what can I say 抓紧" />
     <MESSAGE value="2022.6.15 火热火热" />
@@ -672,6 +672,7 @@
     <MESSAGE value="2022.7.5 加油！" />
     <MESSAGE value="2022.7.6 小曾无敌" />
     <MESSAGE value="2022.7.6 接触到代码了 就开始有意思了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.6 接触到代码了 就开始有意思了" />
+    <MESSAGE value="2022.7.7 开始有意思了 小曾" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.7 开始有意思了 小曾" />
   </component>
 </project>
