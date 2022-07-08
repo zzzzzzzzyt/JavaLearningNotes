@@ -263,14 +263,8 @@
       <workItem from="1657066299694" duration="66000" />
       <workItem from="1657116390522" duration="892000" />
       <workItem from="1657150347093" duration="886000" />
-      <workItem from="1657203044575" duration="671000" />
-    </task>
-    <task id="LOCAL-00082" summary="2022.5.19 go">
-      <created>1652970227241</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1652970227241</updated>
+      <workItem from="1657203044575" duration="859000" />
+      <workItem from="1657237103422" duration="1250000" />
     </task>
     <task id="LOCAL-00083" summary="2022.5.20 冲">
       <created>1653022559559</created>
@@ -608,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657152616441</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="2022.7.7 开始有意思了 小曾">
+      <created>1657207046905</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1657207046905</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
