@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.10 周赛创纪录">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.11 尽人事 听天命">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -269,14 +269,8 @@
       <workItem from="1657417936240" duration="1225000" />
       <workItem from="1657431542667" duration="57000" />
       <workItem from="1657448183116" duration="944000" />
-      <workItem from="1657549466912" duration="588000" />
-    </task>
-    <task id="LOCAL-00087" summary="2022.5.23 step by step">
-      <created>1653271977227</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1653271977228</updated>
+      <workItem from="1657549466912" duration="639000" />
+      <workItem from="1657633924886" duration="803000" />
     </task>
     <task id="LOCAL-00088" summary="2022.5.25 step by step">
       <created>1653452690289</created>
@@ -614,7 +608,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657431580601</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="2022.7.11 尽人事 听天命">
+      <created>1657552512560</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1657552512560</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +655,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.6.18 就等入职预约了 好好干！" />
     <MESSAGE value="2022.6.19 项目暂时就不继续弄了 因为去到实习肯定是有相应的项目经验给到" />
     <MESSAGE value="2022.6.23 冲" />
     <MESSAGE value="2022.6.25 这下真的是玩够了 我要开始努力了" />
@@ -679,6 +679,7 @@
     <MESSAGE value="2022.7.9 要开始准备了 开卷了" />
     <MESSAGE value="2022.7.10 加油" />
     <MESSAGE value="2022.7.10 周赛创纪录" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.10 周赛创纪录" />
+    <MESSAGE value="2022.7.11 尽人事 听天命" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.11 尽人事 听天命" />
   </component>
 </project>
