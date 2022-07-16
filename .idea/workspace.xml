@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.13 继续冲 小曾" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.16 unstoppable">
+      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -271,13 +273,7 @@
       <workItem from="1657633924886" duration="803000" />
       <workItem from="1657639209434" duration="73000" />
       <workItem from="1657723258432" duration="1426000" />
-    </task>
-    <task id="LOCAL-00090" summary="2022.5.27 relaxing">
-      <created>1653641462103</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1653641462104</updated>
+      <workItem from="1657962174792" duration="261000" />
     </task>
     <task id="LOCAL-00091" summary="2022.5.28">
       <created>1653706340408</created>
@@ -615,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657725455257</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="2022.7.16 unstoppable">
+      <created>1657962296612</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1657962296612</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,7 +658,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.6.25 这下真的是玩够了 我要开始努力了" />
     <MESSAGE value="2022.6.26 周赛这次怎么回事 一题选手？反省一下" />
     <MESSAGE value="2022.6.26 一定要好好把握住现在拥有的，同时去获得更多" />
     <MESSAGE value="2022.6.26 孤独逼出全力曾" />
@@ -680,6 +682,7 @@
     <MESSAGE value="2022.7.11 尽人事 听天命" />
     <MESSAGE value="2022.7.12 周末回去找老师" />
     <MESSAGE value="2022.7.13 继续冲 小曾" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.13 继续冲 小曾" />
+    <MESSAGE value="2022.7.16 unstoppable" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.16 unstoppable" />
   </component>
 </project>
