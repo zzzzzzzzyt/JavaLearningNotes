@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.16 unstoppable">
-      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.16 unstoppable" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -274,13 +272,7 @@
       <workItem from="1657639209434" duration="73000" />
       <workItem from="1657723258432" duration="1426000" />
       <workItem from="1657962174792" duration="261000" />
-    </task>
-    <task id="LOCAL-00091" summary="2022.5.28">
-      <created>1653706340408</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1653706340408</updated>
+      <workItem from="1657962643788" duration="699000" />
     </task>
     <task id="LOCAL-00092" summary="2022.5.29 婚礼日 没学习五天纪念日">
       <created>1653792271845</created>
@@ -618,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657962296612</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="2022.7.16 unstoppable">
+      <created>1657965848061</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1657965848062</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
