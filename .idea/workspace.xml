@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.17 unstoppable 明天上班但又怎样">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.18 冲 明天跑步">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -276,14 +276,9 @@
       <workItem from="1657962174792" duration="261000" />
       <workItem from="1657962643788" duration="699000" />
       <workItem from="1658046944016" duration="236000" />
-      <workItem from="1658155058891" duration="1063000" />
-    </task>
-    <task id="LOCAL-00093" summary="2022.5.30 没学习六天纪念日">
-      <created>1653908420330</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1653908420330</updated>
+      <workItem from="1658155058891" duration="1594000" />
+      <workItem from="1658186313937" duration="596000" />
+      <workItem from="1658242253844" duration="589000" />
     </task>
     <task id="LOCAL-00094" summary="2022.6.1 King is back!">
       <created>1654093577700</created>
@@ -621,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658047107392</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="2022.7.18 冲 明天跑步">
+      <created>1658159632013</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1658159632014</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.6.26 一定要好好把握住现在拥有的，同时去获得更多" />
     <MESSAGE value="2022.6.26 孤独逼出全力曾" />
     <MESSAGE value="2022.6.28 全力曾" />
     <MESSAGE value="2022.6.28 好好上班 好好科研 好好准备秋招" />
@@ -686,6 +687,7 @@
     <MESSAGE value="2022.7.13 继续冲 小曾" />
     <MESSAGE value="2022.7.16 unstoppable" />
     <MESSAGE value="2022.7.17 unstoppable 明天上班但又怎样" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.17 unstoppable 明天上班但又怎样" />
+    <MESSAGE value="2022.7.18 冲 明天跑步" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.18 冲 明天跑步" />
   </component>
 </project>
