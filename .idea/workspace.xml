@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.24 开始努力了">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.26 全力冲">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,13 +286,9 @@
       <workItem from="1658671419662" duration="610000" />
       <workItem from="1658705108057" duration="594000" />
       <workItem from="1658755479950" duration="22000" />
-    </task>
-    <task id="LOCAL-00098" summary="2022.6.4 保持状态 认真学习">
-      <created>1654352952819</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1654352952820</updated>
+      <workItem from="1658757935310" duration="104000" />
+      <workItem from="1658791327330" duration="904000" />
+      <workItem from="1658841924073" duration="757000" />
     </task>
     <task id="LOCAL-00099" summary="2022.6.5 周赛最后题要敢去想">
       <created>1654404012631</created>
@@ -629,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658672011507</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="2022.7.25 向jihao哥学习">
+      <created>1658758029702</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1658758029702</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,7 +673,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.6.30 加油 难题现在就周赛刷 剑指哪些简单的多来几遍 比如说代码随想录" />
     <MESSAGE value="2022.6.30 加油 刷简单的题目" />
     <MESSAGE value="2022.7.1 周末加油科研 还有Java" />
     <MESSAGE value="2022.7.2 这次不是很难 居然没有全部做出来 我的" />
@@ -694,6 +697,7 @@
     <MESSAGE value="2022.7.20 不回家了 还打算回家的本来" />
     <MESSAGE value="2022.7.21 回去看看招聘会 中津在搞什么" />
     <MESSAGE value="2022.7.24 开始努力了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.24 开始努力了" />
+    <MESSAGE value="2022.7.25 向jihao哥学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.25 向jihao哥学习" />
   </component>
 </project>
