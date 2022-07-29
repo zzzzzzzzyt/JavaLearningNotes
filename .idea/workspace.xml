@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.27 测评！">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.28 好好弄 刨根问底" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,14 +288,7 @@
       <workItem from="1658841924073" duration="757000" />
       <workItem from="1658843423600" duration="69000" />
       <workItem from="1658928361422" duration="928000" />
-      <workItem from="1659018468963" duration="292000" />
-    </task>
-    <task id="LOCAL-00101" summary="2022.6.6 清晨刷题 思路清晰">
-      <created>1654490041405</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1654490041405</updated>
+      <workItem from="1659018468963" duration="359000" />
     </task>
     <task id="LOCAL-00102" summary="2022.6.6 清晨刷题 思路清晰">
       <created>1654512199333</created>
@@ -635,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658929470502</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="2022.7.28 好好弄 刨根问底">
+      <created>1659018832366</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1659018832366</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -675,7 +673,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.2 这次不是很难 居然没有全部做出来 我的" />
     <MESSAGE value="2022.7.3 这次不是很难 居然没有全部做出来 我的" />
     <MESSAGE value="2022.7.4 保持状态 工作学习科研" />
     <MESSAGE value="2022.7.5 keep!" />
@@ -700,6 +697,7 @@
     <MESSAGE value="2022.7.25 向jihao哥学习" />
     <MESSAGE value="2022.7.26 全力冲" />
     <MESSAGE value="2022.7.27 测评！" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.27 测评！" />
+    <MESSAGE value="2022.7.28 好好弄 刨根问底" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.28 好好弄 刨根问底" />
   </component>
 </project>
