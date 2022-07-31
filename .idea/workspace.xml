@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.29 月末周六">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.7.30 要保持刷">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -293,13 +293,8 @@
       <workItem from="1659018468963" duration="359000" />
       <workItem from="1659109216175" duration="650000" />
       <workItem from="1659185226142" duration="1658000" />
-    </task>
-    <task id="LOCAL-00103" summary="2022.6.7 清晨刷题 思路清晰 挑战难题 时刻复习">
-      <created>1654576898255</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1654576898255</updated>
+      <workItem from="1659189525435" duration="541000" />
+      <workItem from="1659190107434" duration="3000" />
     </task>
     <task id="LOCAL-00104" summary="2022.6.10 打完收工">
       <created>1654871568653</created>
@@ -637,7 +632,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659109266557</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="2022.7.30 要保持刷">
+      <created>1659189641221</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1659189641221</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -677,7 +679,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.4 保持状态 工作学习科研" />
     <MESSAGE value="2022.7.5 keep!" />
     <MESSAGE value="2022.7.5 加油！" />
     <MESSAGE value="2022.7.6 小曾无敌" />
@@ -702,6 +703,7 @@
     <MESSAGE value="2022.7.27 测评！" />
     <MESSAGE value="2022.7.28 好好弄 刨根问底" />
     <MESSAGE value="2022.7.29 月末周六" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.7.29 月末周六" />
+    <MESSAGE value="2022.7.30 要保持刷" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.7.30 要保持刷" />
   </component>
 </project>
