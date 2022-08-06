@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.3 保持">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.5 休憩一天">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -300,21 +300,9 @@
       <workItem from="1659362705960" duration="1848000" />
       <workItem from="1659449992288" duration="185000" />
       <workItem from="1659533218214" duration="19000" />
-      <workItem from="1659540962798" duration="1947000" />
-    </task>
-    <task id="LOCAL-00108" summary="2022.6.16 望好运">
-      <created>1655385404196</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1655385404196</updated>
-    </task>
-    <task id="LOCAL-00109" summary="2022.6.18 就等入职预约了 好好干！">
-      <created>1655528296709</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1655528296710</updated>
+      <workItem from="1659540962798" duration="2292000" />
+      <workItem from="1659709610510" duration="153000" />
+      <workItem from="1659744526090" duration="573000" />
     </task>
     <task id="LOCAL-00110" summary="2022.6.19 项目暂时就不继续弄了 因为去到实习肯定是有相应的项目经验给到">
       <created>1655627571925</created>
@@ -645,7 +633,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659621642945</updated>
     </task>
-    <option name="localTasksCounter" value="157" />
+    <task id="LOCAL-00157" summary="2022.8.4 七夕  今天解决bug单 部署合入">
+      <created>1659622711736</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1659622711736</updated>
+    </task>
+    <task id="LOCAL-00158" summary="2022.8.5 休憩一天">
+      <created>1659709752002</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1659709752002</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -685,8 +687,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.7 开始有意思了 小曾" />
-    <MESSAGE value="2022.7.8 太懒了 每天跑快点  快点回来" />
     <MESSAGE value="2022.7.9 要开始准备了 开卷了" />
     <MESSAGE value="2022.7.10 加油" />
     <MESSAGE value="2022.7.10 周赛创纪录" />
@@ -710,6 +710,8 @@
     <MESSAGE value="2022.8.1 这个月我要努力  i will do what i say." />
     <MESSAGE value="2022.8.2 加油中国" />
     <MESSAGE value="2022.8.3 保持" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.3 保持" />
+    <MESSAGE value="2022.8.4 七夕  今天解决bug单 部署合入" />
+    <MESSAGE value="2022.8.5 休憩一天" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.5 休憩一天" />
   </component>
 </project>
