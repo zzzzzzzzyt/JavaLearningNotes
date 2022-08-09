@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.7 调整 调整">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.8 keep silence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -307,13 +307,8 @@
       <workItem from="1659844199119" duration="59000" />
       <workItem from="1659852236281" duration="179000" />
       <workItem from="1659860413409" duration="18000" />
-    </task>
-    <task id="LOCAL-00113" summary="2022.6.25 这下真的是玩够了 我要开始努力了">
-      <created>1656124200539</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1656124200540</updated>
+      <workItem from="1659967967372" duration="96000" />
+      <workItem from="1660001596054" duration="610000" />
     </task>
     <task id="LOCAL-00114" summary="2022.6.26 周赛这次怎么回事 一题选手？反省一下">
       <created>1656219657877</created>
@@ -651,7 +646,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659852402627</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="2022.8.8 keep silence">
+      <created>1659968046598</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1659968046598</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -691,7 +693,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.11 尽人事 听天命" />
     <MESSAGE value="2022.7.12 周末回去找老师" />
     <MESSAGE value="2022.7.13 继续冲 小曾" />
     <MESSAGE value="2022.7.16 unstoppable" />
@@ -716,6 +717,7 @@
     <MESSAGE value="2022.8.6 I say peace to every one peace to the CDC" />
     <MESSAGE value="2022.8.7 调整 我需要回归" />
     <MESSAGE value="2022.8.7 调整 调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.7 调整 调整" />
+    <MESSAGE value="2022.8.8 keep silence" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.8 keep silence" />
   </component>
 </project>
