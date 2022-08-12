@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.10 加油" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.11 干" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -308,13 +308,7 @@
       <workItem from="1659967967372" duration="96000" />
       <workItem from="1660001596054" duration="610000" />
       <workItem from="1660055248001" duration="1342000" />
-    </task>
-    <task id="LOCAL-00116" summary="2022.6.26 孤独逼出全力曾">
-      <created>1656327518246</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1656327518247</updated>
+      <workItem from="1660227917419" duration="95000" />
     </task>
     <task id="LOCAL-00117" summary="2022.6.28 全力曾">
       <created>1656398612738</created>
@@ -652,7 +646,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660144118091</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="2022.8.11 干">
+      <created>1660228001879</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1660228001879</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -692,7 +693,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.16 unstoppable" />
     <MESSAGE value="2022.7.17 unstoppable 明天上班但又怎样" />
     <MESSAGE value="2022.7.18 冲 明天跑步" />
     <MESSAGE value="2022.7.19 腿酸但没事加油" />
@@ -717,6 +717,7 @@
     <MESSAGE value="2022.8.8 keep silence" />
     <MESSAGE value="2022.8.9 冲" />
     <MESSAGE value="2022.8.10 加油" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.10 加油" />
+    <MESSAGE value="2022.8.11 干" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.11 干" />
   </component>
 </project>
