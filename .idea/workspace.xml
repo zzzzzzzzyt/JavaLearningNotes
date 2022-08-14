@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.12">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.13 努力日">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -313,14 +313,8 @@
       <workItem from="1660227917419" duration="95000" />
       <workItem from="1660314711059" duration="121000" />
       <workItem from="1660352493764" duration="279000" />
-      <workItem from="1660368435651" duration="664000" />
-    </task>
-    <task id="LOCAL-00118" summary="2022.6.28 全力曾">
-      <created>1656399110846</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1656399110846</updated>
+      <workItem from="1660368435651" duration="956000" />
+      <workItem from="1660375077592" duration="609000" />
     </task>
     <task id="LOCAL-00119" summary="2022.6.28 好好上班 好好科研 好好准备秋招">
       <created>1656420116357</created>
@@ -658,7 +652,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660314810549</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="2022.8.13 努力日">
+      <created>1660372896343</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1660372896344</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -698,7 +699,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.18 冲 明天跑步" />
     <MESSAGE value="2022.7.19 腿酸但没事加油" />
     <MESSAGE value="2022.7.20 不回家了 还打算回家的本来" />
     <MESSAGE value="2022.7.21 回去看看招聘会 中津在搞什么" />
@@ -723,6 +723,7 @@
     <MESSAGE value="2022.8.10 加油" />
     <MESSAGE value="2022.8.11 干" />
     <MESSAGE value="2022.8.12" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.12" />
+    <MESSAGE value="2022.8.13 努力日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.13 努力日" />
   </component>
 </project>
