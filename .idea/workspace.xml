@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.15 冲" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.16 需要找刷题的感觉" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,13 +317,7 @@
       <workItem from="1660489560990" duration="34000" />
       <workItem from="1660571399813" duration="1624000" />
       <workItem from="1660578506461" duration="243000" />
-    </task>
-    <task id="LOCAL-00122" summary="2022.6.30 加油 刷简单的题目">
-      <created>1656598074876</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1656598074876</updated>
+      <workItem from="1660658261767" duration="279000" />
     </task>
     <task id="LOCAL-00123" summary="2022.7.1 周末加油科研 还有Java">
       <created>1656685879696</created>
@@ -661,7 +655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660578656259</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="2022.8.16 需要找刷题的感觉">
+      <created>1660658532197</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1660658532197</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -701,7 +702,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.21 回去看看招聘会 中津在搞什么" />
     <MESSAGE value="2022.7.24 开始努力了" />
     <MESSAGE value="2022.7.25 向jihao哥学习" />
     <MESSAGE value="2022.7.26 全力冲" />
@@ -726,6 +726,7 @@
     <MESSAGE value="2022.8.13 努力日" />
     <MESSAGE value="2022.8.14 回住处了" />
     <MESSAGE value="2022.8.15 冲" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.15 冲" />
+    <MESSAGE value="2022.8.16 需要找刷题的感觉" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.16 需要找刷题的感觉" />
   </component>
 </project>
