@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.16 需要找刷题的感觉" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Java\maven\repository" />
+        <option name="mavenHome" value="E:/Java/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Java\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23nujp9GlbdhzdKuc2ceCT4EpxN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_code\JavaLearningNotes" />
+      <recent name="D:\Java_code\JavaLearningNotes\leetcode" />
+      <recent name="D:\Java_code\JavaLearningNotes\open source project learning method" />
+      <recent name="D:\Java_code\JavaLearningNotes\java virtual machine" />
+      <recent name="D:\Java_code\JavaLearningNotes\network of computer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java_code\JavaLearningNotes\leetcode" />
+      <recent name="D:\Java_code\JavaLearningNotes\operation system" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\asus\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="C:\Users\asus/.ssh/id_rsa" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="" />
+      <created>1642382313276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642382313276</updated>
+      <workItem from="1642382322703" duration="2076000" />
+      <workItem from="1645321419600" duration="4868000" />
+      <workItem from="1645339743846" duration="107000" />
+      <workItem from="1645432006333" duration="700000" />
+      <workItem from="1645518967299" duration="1751000" />
+      <workItem from="1645528151419" duration="169000" />
+      <workItem from="1645626270609" duration="303000" />
+      <workItem from="1645661803951" duration="592000" />
+      <workItem from="1645676625408" duration="12000" />
+      <workItem from="1645712404697" duration="570000" />
+      <workItem from="1645799079244" duration="199000" />
+      <workItem from="1645834901466" duration="223000" />
+      <workItem from="1645884765325" duration="856000" />
+      <workItem from="1645967023059" duration="174000" />
+      <workItem from="1645967260996" duration="30000" />
+      <workItem from="1646057928249" duration="474000" />
+      <workItem from="1646094454504" duration="28000" />
+      <workItem from="1646143963092" duration="911000" />
+      <workItem from="1646185546438" duration="87000" />
+      <workItem from="1646231144368" duration="90000" />
+      <workItem from="1646285364235" duration="585000" />
+      <workItem from="1646317424005" duration="121000" />
+      <workItem from="1646351968382" duration="137000" />
+      <workItem from="1646403700965" duration="169000" />
+      <workItem from="1646438488397" duration="1932000" />
+      <workItem from="1646444201567" duration="1138000" />
+      <workItem from="1646445599646" duration="603000" />
+      <workItem from="1646446446763" duration="159000" />
+      <workItem from="1646576402630" duration="165000" />
+      <workItem from="1646662741350" duration="205000" />
+      <workItem from="1646749424993" duration="213000" />
+      <workItem from="1646835741018" duration="326000" />
+      <workItem from="1646871213207" duration="491000" />
+      <workItem from="1646922329562" duration="116000" />
+      <workItem from="1646956345580" duration="545000" />
+      <workItem from="1647008729397" duration="61000" />
+      <workItem from="1647094840589" duration="65000" />
+      <workItem from="1647129958559" duration="470000" />
+      <workItem from="1647181186600" duration="462000" />
+      <workItem from="1647235018746" duration="386000" />
+      <workItem from="1647267905837" duration="195000" />
+      <workItem from="1647302518232" duration="454000" />
+      <workItem from="1647328742125" duration="383000" />
+      <workItem from="1647354389257" duration="149000" />
+      <workItem from="1647387793838" duration="1752000" />
+      <workItem from="1647440228090" duration="229000" />
+      <workItem from="1647475825337" duration="3087000" />
+      <workItem from="1647526615334" duration="300000" />
+      <workItem from="1647561643505" duration="134000" />
+      <workItem from="1647597184638" duration="1203000" />
+      <workItem from="1647613182185" duration="77000" />
+      <workItem from="1647648543108" duration="595000" />
+      <workItem from="1647699005326" duration="667000" />
+      <workItem from="1647735127440" duration="582000" />
+      <workItem from="1647786150294" duration="178000" />
+      <workItem from="1647821675974" duration="1500000" />
+      <workItem from="1647863683452" duration="2127000" />
+      <workItem from="1647933380619" duration="960000" />
+      <workItem from="1647935134592" duration="4000" />
+      <workItem from="1647958350995" duration="312000" />
+      <workItem from="1647958685265" duration="759000" />
+      <workItem from="1647992802832" duration="868000" />
+      <workItem from="1651109439354" duration="397000" />
+      <workItem from="1651112163979" duration="1196000" />
+      <workItem from="1651156139357" duration="108000" />
+      <workItem from="1651220256824" duration="873000" />
+      <workItem from="1651325895555" duration="223000" />
+      <workItem from="1651383131509" duration="81000" />
+      <workItem from="1651489200525" duration="79000" />
+      <workItem from="1651536887115" duration="13000" />
+      <workItem from="1651587548003" duration="110000" />
+      <workItem from="1651669999126" duration="950000" />
+      <workItem from="1651673262299" duration="37000" />
+      <workItem from="1651726446996" duration="693000" />
+      <workItem from="1651847006727" duration="236000" />
+      <workItem from="1651886346208" duration="37000" />
+      <workItem from="1651892864157" duration="67000" />
+      <workItem from="1651933419867" duration="43000" />
+      <workItem from="1651989279917" duration="85000" />
+      <workItem from="1652018487201" duration="714000" />
+      <workItem from="1652054724656" duration="1287000" />
+      <workItem from="1652192230328" duration="608000" />
+      <workItem from="1652193015551" duration="44000" />
+      <workItem from="1652227591804" duration="1100000" />
+      <workItem from="1652279400838" duration="53000" />
+      <workItem from="1652313845481" duration="1505000" />
+      <workItem from="1652365714558" duration="36000" />
+      <workItem from="1652400506810" duration="1248000" />
+      <workItem from="1652429435703" duration="97000" />
+      <workItem from="1652448103567" duration="398000" />
+      <workItem from="1652449532883" duration="4000" />
+      <workItem from="1652489671150" duration="678000" />
+      <workItem from="1652574686387" duration="1222000" />
+      <workItem from="1652661408670" duration="747000" />
+      <workItem from="1652676110489" duration="768000" />
+      <workItem from="1652746612795" duration="1238000" />
+      <workItem from="1652795133549" duration="119000" />
+      <workItem from="1652832312115" duration="1909000" />
+      <workItem from="1652884156035" duration="50000" />
+      <workItem from="1652919201887" duration="1225000" />
+      <workItem from="1652965803251" duration="19000" />
+      <workItem from="1652965830649" duration="1691000" />
+      <workItem from="1653005087537" duration="2768000" />
+      <workItem from="1653095093695" duration="703000" />
+      <workItem from="1653113387727" duration="119000" />
+      <workItem from="1653180136142" duration="3000" />
+      <workItem from="1653198737887" duration="129000" />
+      <workItem from="1653271891635" duration="94000" />
+      <workItem from="1653305964990" duration="777000" />
+      <workItem from="1653355310697" duration="1785000" />
+      <workItem from="1653360646426" duration="3000" />
+      <workItem from="1653452584282" duration="394000" />
+      <workItem from="1653523980015" duration="2277000" />
+      <workItem from="1653635898072" duration="780000" />
+      <workItem from="1653641377067" duration="84000" />
+      <workItem from="1653706238198" duration="91000" />
+      <workItem from="1653792189477" duration="109000" />
+      <workItem from="1653908330759" duration="248000" />
+      <workItem from="1654045623353" duration="18000" />
+      <workItem from="1654082623079" duration="2023000" />
+      <workItem from="1654128292180" duration="1202000" />
+      <workItem from="1654132431047" duration="38000" />
+      <workItem from="1654143903912" duration="70000" />
+      <workItem from="1654175359299" duration="1372000" />
+      <workItem from="1654215204609" duration="419000" />
+      <workItem from="1654352906328" duration="68000" />
+      <workItem from="1654390580489" duration="112000" />
+      <workItem from="1654403868282" duration="215000" />
+      <workItem from="1654484916468" duration="1555000" />
+      <workItem from="1654512184640" duration="52000" />
+      <workItem from="1654562143047" duration="19000" />
+      <workItem from="1654576853989" duration="55000" />
+      <workItem from="1654871080291" duration="493000" />
+      <workItem from="1654905635688" duration="681000" />
+      <workItem from="1654935290626" duration="2000" />
+      <workItem from="1654956274718" duration="128000" />
+      <workItem from="1655189622279" duration="73000" />
+      <workItem from="1655216943546" duration="102000" />
+      <workItem from="1655302496769" duration="52000" />
+      <workItem from="1655337941199" duration="601000" />
+      <workItem from="1655385306267" duration="165000" />
+      <workItem from="1655425864651" duration="231000" />
+      <workItem from="1655522339496" duration="1548000" />
+      <workItem from="1655536392976" duration="7000" />
+      <workItem from="1655627508939" duration="487000" />
+      <workItem from="1655633324626" duration="101000" />
+      <workItem from="1655908270726" duration="4000" />
+      <workItem from="1655944362125" duration="800000" />
+      <workItem from="1656122955646" duration="669000" />
+      <workItem from="1656142549181" duration="142000" />
+      <workItem from="1656219595192" duration="98000" />
+      <workItem from="1656231752663" duration="72000" />
+      <workItem from="1656327229819" duration="277000" />
+      <workItem from="1656387480943" duration="2570000" />
+      <workItem from="1656398964567" duration="589000" />
+      <workItem from="1656420022950" duration="235000" />
+      <workItem from="1656429588315" duration="14000" />
+      <workItem from="1656505428044" duration="1394000" />
+      <workItem from="1656588565691" duration="78000" />
+      <workItem from="1656596074540" duration="862000" />
+      <workItem from="1656676640620" duration="2028000" />
+      <workItem from="1656685817033" duration="79000" />
+      <workItem from="1656722293606" duration="2225000" />
+      <workItem from="1656827259611" duration="263000" />
+      <workItem from="1656850518049" duration="42000" />
+      <workItem from="1656947346830" duration="246000" />
+      <workItem from="1656977394525" duration="1043000" />
+      <workItem from="1657033721873" duration="123000" />
+      <workItem from="1657063565660" duration="16000" />
+      <workItem from="1657066299694" duration="66000" />
+      <workItem from="1657116390522" duration="892000" />
+      <workItem from="1657150347093" duration="886000" />
+      <workItem from="1657203044575" duration="859000" />
+      <workItem from="1657237103422" duration="1451000" />
+      <workItem from="1657376847651" duration="90000" />
+      <workItem from="1657417936240" duration="1225000" />
+      <workItem from="1657431542667" duration="57000" />
+      <workItem from="1657448183116" duration="944000" />
+      <workItem from="1657549466912" duration="639000" />
+      <workItem from="1657633924886" duration="803000" />
+      <workItem from="1657639209434" duration="73000" />
+      <workItem from="1657723258432" duration="1426000" />
+      <workItem from="1657962174792" duration="261000" />
+      <workItem from="1657962643788" duration="699000" />
+      <workItem from="1658046944016" duration="236000" />
+      <workItem from="1658155058891" duration="1594000" />
+      <workItem from="1658186313937" duration="596000" />
+      <workItem from="1658242253844" duration="1293000" />
+      <workItem from="1658331968164" duration="645000" />
+      <workItem from="1658410204500" duration="1149000" />
+      <workItem from="1658411563156" duration="330000" />
+      <workItem from="1658671419662" duration="610000" />
+      <workItem from="1658705108057" duration="594000" />
+      <workItem from="1658755479950" duration="22000" />
+      <workItem from="1658757935310" duration="104000" />
+      <workItem from="1658791327330" duration="904000" />
+      <workItem from="1658841924073" duration="757000" />
+      <workItem from="1658843423600" duration="69000" />
+      <workItem from="1658928361422" duration="928000" />
+      <workItem from="1659018468963" duration="359000" />
+      <workItem from="1659109216175" duration="650000" />
+      <workItem from="1659185226142" duration="1658000" />
+      <workItem from="1659189525435" duration="541000" />
+      <workItem from="1659190107434" duration="3000" />
+      <workItem from="1659238254293" duration="223000" />
+      <workItem from="1659242846100" duration="36000" />
+      <workItem from="1659362705960" duration="1848000" />
+      <workItem from="1659449992288" duration="185000" />
+      <workItem from="1659533218214" duration="19000" />
+      <workItem from="1659540962798" duration="2292000" />
+      <workItem from="1659709610510" duration="153000" />
+      <workItem from="1659744526090" duration="573000" />
+      <workItem from="1659747663409" duration="960000" />
+      <workItem from="1659844199119" duration="59000" />
+      <workItem from="1659852236281" duration="179000" />
+      <workItem from="1659860413409" duration="18000" />
+      <workItem from="1659967967372" duration="96000" />
+      <workItem from="1660001596054" duration="610000" />
+      <workItem from="1660055248001" duration="1342000" />
+      <workItem from="1660227917419" duration="95000" />
+      <workItem from="1660314711059" duration="121000" />
+      <workItem from="1660352493764" duration="279000" />
+      <workItem from="1660368435651" duration="956000" />
+      <workItem from="1660375077592" duration="609000" />
+      <workItem from="1660463920546" duration="78000" />
+      <workItem from="1660489560990" duration="34000" />
+      <workItem from="1660571399813" duration="1624000" />
+      <workItem from="1660578506461" duration="243000" />
+      <workItem from="1660658261767" duration="279000" />
+    </task>
+    <task id="LOCAL-00123" summary="2022.7.1 周末加油科研 还有Java">
+      <created>1656685879696</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1656685879697</updated>
+    </task>
+    <task id="LOCAL-00124" summary="2022.7.3 这次不是很难 居然没有全部做出来 我的">
+      <created>1656827555028</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1656827555029</updated>
+    </task>
+    <task id="LOCAL-00125" summary="2022.7.4 保持状态 工作学习科研">
+      <created>1656947569780</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1656947569781</updated>
+    </task>
+    <task id="LOCAL-00126" summary="2022.7.5 keep!">
+      <created>1656980341582</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1656980341582</updated>
+    </task>
+    <task id="LOCAL-00127" summary="2022.7.5 加油！">
+      <created>1657033809491</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1657033809491</updated>
+    </task>
+    <task id="LOCAL-00128" summary="2022.7.6 小曾无敌">
+      <created>1657066343685</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1657066343685</updated>
+    </task>
+    <task id="LOCAL-00129" summary="2022.7.6 接触到代码了 就开始有意思了">
+      <created>1657119002009</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1657119002009</updated>
+    </task>
+    <task id="LOCAL-00130" summary="2022.7.7 开始有意思了 小曾">
+      <created>1657152616441</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1657152616441</updated>
+    </task>
+    <task id="LOCAL-00131" summary="2022.7.7 开始有意思了 小曾">
+      <created>1657207046905</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1657207046905</updated>
+    </task>
+    <task id="LOCAL-00132" summary="2022.7.8 太懒了 每天跑快点  快点回来">
+      <created>1657238933373</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1657238933373</updated>
+    </task>
+    <task id="LOCAL-00133" summary="2022.7.9 要开始准备了 开卷了">
+      <created>1657376923544</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1657376923544</updated>
+    </task>
+    <task id="LOCAL-00134" summary="2022.7.10 加油">
+      <created>1657417971061</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1657417971061</updated>
+    </task>
+    <task id="LOCAL-00135" summary="2022.7.10 周赛创纪录">
+      <created>1657431580601</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1657431580601</updated>
+    </task>
+    <task id="LOCAL-00136" summary="2022.7.11 尽人事 听天命">
+      <created>1657552512560</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1657552512560</updated>
+    </task>
+    <task id="LOCAL-00137" summary="2022.7.12 周末回去找老师">
+      <created>1657639267289</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1657639267298</updated>
+    </task>
+    <task id="LOCAL-00138" summary="2022.7.13 继续冲 小曾">
+      <created>1657725455257</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1657725455257</updated>
+    </task>
+    <task id="LOCAL-00139" summary="2022.7.16 unstoppable">
+      <created>1657962296612</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1657962296612</updated>
+    </task>
+    <task id="LOCAL-00140" summary="2022.7.16 unstoppable">
+      <created>1657965848061</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1657965848062</updated>
+    </task>
+    <task id="LOCAL-00141" summary="2022.7.17 unstoppable 明天上班但又怎样">
+      <created>1658047107392</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1658047107392</updated>
+    </task>
+    <task id="LOCAL-00142" summary="2022.7.18 冲 明天跑步">
+      <created>1658159632013</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1658159632014</updated>
+    </task>
+    <task id="LOCAL-00143" summary="2022.7.19 腿酸但没事加油">
+      <created>1658243454990</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1658243454992</updated>
+    </task>
+    <task id="LOCAL-00144" summary="2022.7.20 不回家了 还打算回家的本来">
+      <created>1658332016564</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1658332016564</updated>
+    </task>
+    <task id="LOCAL-00145" summary="2022.7.21 回去看看招聘会 中津在搞什么">
+      <created>1658411374917</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1658411374917</updated>
+    </task>
+    <task id="LOCAL-00146" summary="2022.7.24 开始努力了">
+      <created>1658672011507</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1658672011507</updated>
+    </task>
+    <task id="LOCAL-00147" summary="2022.7.25 向jihao哥学习">
+      <created>1658758029702</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1658758029702</updated>
+    </task>
+    <task id="LOCAL-00148" summary="2022.7.26 全力冲">
+      <created>1658843455722</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1658843455722</updated>
+    </task>
+    <task id="LOCAL-00149" summary="2022.7.27 测评！">
+      <created>1658929470502</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1658929470502</updated>
+    </task>
+    <task id="LOCAL-00150" summary="2022.7.28 好好弄 刨根问底">
+      <created>1659018832366</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1659018832366</updated>
+    </task>
+    <task id="LOCAL-00151" summary="2022.7.29 月末周六">
+      <created>1659109266557</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1659109266557</updated>
+    </task>
+    <task id="LOCAL-00152" summary="2022.7.30 要保持刷">
+      <created>1659189641221</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1659189641221</updated>
+    </task>
+    <task id="LOCAL-00153" summary="2022.7.31 ak 中间可以有很多提升的地方 写的散漫了">
+      <created>1659238442549</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1659238442549</updated>
+    </task>
+    <task id="LOCAL-00154" summary="2022.8.1 这个月我要努力  i will do what i say.">
+      <created>1659367379560</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1659367379560</updated>
+    </task>
+    <task id="LOCAL-00155" summary="2022.8.2 加油中国">
+      <created>1659450083040</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1659450083041</updated>
+    </task>
+    <task id="LOCAL-00156" summary="2022.8.3 保持">
+      <created>1659621642945</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1659621642945</updated>
+    </task>
+    <task id="LOCAL-00157" summary="2022.8.4 七夕  今天解决bug单 部署合入">
+      <created>1659622711736</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1659622711736</updated>
+    </task>
+    <task id="LOCAL-00158" summary="2022.8.5 休憩一天">
+      <created>1659709752002</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1659709752002</updated>
+    </task>
+    <task id="LOCAL-00159" summary="2022.8.6 I say peace to every one peace to the CDC">
+      <created>1659751645932</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1659751645932</updated>
+    </task>
+    <task id="LOCAL-00160" summary="2022.8.7 调整 我需要回归">
+      <created>1659844242919</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1659844242919</updated>
+    </task>
+    <task id="LOCAL-00161" summary="2022.8.7 调整 调整">
+      <created>1659852402626</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1659852402627</updated>
+    </task>
+    <task id="LOCAL-00162" summary="2022.8.8 keep silence">
+      <created>1659968046598</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1659968046598</updated>
+    </task>
+    <task id="LOCAL-00163" summary="2022.8.9 冲">
+      <created>1660055282077</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1660055282078</updated>
+    </task>
+    <task id="LOCAL-00164" summary="2022.8.10 加油">
+      <created>1660144118090</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1660144118091</updated>
+    </task>
+    <task id="LOCAL-00165" summary="2022.8.11 干">
+      <created>1660228001879</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1660228001879</updated>
+    </task>
+    <task id="LOCAL-00166" summary="2022.8.12">
+      <created>1660314810549</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1660314810549</updated>
+    </task>
+    <task id="LOCAL-00167" summary="2022.8.13 努力日">
+      <created>1660372896343</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1660372896344</updated>
+    </task>
+    <task id="LOCAL-00168" summary="2022.8.14 回住处了">
+      <created>1660464001607</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1660464001608</updated>
+    </task>
+    <task id="LOCAL-00169" summary="2022.8.15 冲">
+      <created>1660578578414</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1660578578415</updated>
+    </task>
+    <task id="LOCAL-00170" summary="2022.8.15 冲">
+      <created>1660578656258</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1660578656259</updated>
+    </task>
+    <task id="LOCAL-00171" summary="2022.8.16 需要找刷题的感觉">
+      <created>1660658532197</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1660658532197</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022.7.24 开始努力了" />
+    <MESSAGE value="2022.7.25 向jihao哥学习" />
+    <MESSAGE value="2022.7.26 全力冲" />
+    <MESSAGE value="2022.7.27 测评！" />
+    <MESSAGE value="2022.7.28 好好弄 刨根问底" />
+    <MESSAGE value="2022.7.29 月末周六" />
+    <MESSAGE value="2022.7.30 要保持刷" />
+    <MESSAGE value="2022.7.31 ak 中间可以有很多提升的地方 写的散漫了" />
+    <MESSAGE value="2022.8.1 这个月我要努力  i will do what i say." />
+    <MESSAGE value="2022.8.2 加油中国" />
+    <MESSAGE value="2022.8.3 保持" />
+    <MESSAGE value="2022.8.4 七夕  今天解决bug单 部署合入" />
+    <MESSAGE value="2022.8.5 休憩一天" />
+    <MESSAGE value="2022.8.6 I say peace to every one peace to the CDC" />
+    <MESSAGE value="2022.8.7 调整 我需要回归" />
+    <MESSAGE value="2022.8.7 调整 调整" />
+    <MESSAGE value="2022.8.8 keep silence" />
+    <MESSAGE value="2022.8.9 冲" />
+    <MESSAGE value="2022.8.10 加油" />
+    <MESSAGE value="2022.8.11 干" />
+    <MESSAGE value="2022.8.12" />
+    <MESSAGE value="2022.8.13 努力日" />
+    <MESSAGE value="2022.8.14 回住处了" />
+    <MESSAGE value="2022.8.15 冲" />
+    <MESSAGE value="2022.8.16 需要找刷题的感觉" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.16 需要找刷题的感觉" />
+  </component>
+</project>
