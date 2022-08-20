@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.18 🔫">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.20 网易🔫">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -322,28 +321,10 @@
       <workItem from="1660578506461" duration="243000" />
       <workItem from="1660658261767" duration="279000" />
       <workItem from="1660733925845" duration="238000" />
-      <workItem from="1660828775971" duration="1226000" />
-    </task>
-    <task id="LOCAL-00124" summary="2022.7.3 这次不是很难 居然没有全部做出来 我的">
-      <created>1656827555028</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1656827555029</updated>
-    </task>
-    <task id="LOCAL-00125" summary="2022.7.4 保持状态 工作学习科研">
-      <created>1656947569780</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1656947569781</updated>
-    </task>
-    <task id="LOCAL-00126" summary="2022.7.5 keep!">
-      <created>1656980341582</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1656980341582</updated>
+      <workItem from="1660828775971" duration="1864000" />
+      <workItem from="1660917749662" duration="670000" />
+      <workItem from="1660956692852" duration="598000" />
+      <workItem from="1660991498123" duration="315000" />
     </task>
     <task id="LOCAL-00127" summary="2022.7.5 加油！">
       <created>1657033809491</created>
@@ -667,7 +648,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660734130494</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="2022.8.18 🔫">
+      <created>1660831265524</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1660831265524</updated>
+    </task>
+    <task id="LOCAL-00174" summary="2022.8.19 微软🔫">
+      <created>1660918663861</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1660918663861</updated>
+    </task>
+    <task id="LOCAL-00175" summary="2022.8.20 网易🔫">
+      <created>1660991802464</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1660991802464</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,8 +709,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.26 全力冲" />
-    <MESSAGE value="2022.7.27 测评！" />
     <MESSAGE value="2022.7.28 好好弄 刨根问底" />
     <MESSAGE value="2022.7.29 月末周六" />
     <MESSAGE value="2022.7.30 要保持刷" />
@@ -732,6 +732,8 @@
     <MESSAGE value="2022.8.16 需要找刷题的感觉" />
     <MESSAGE value="2022.8.17 " />
     <MESSAGE value="2022.8.18 " />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.18 " />
+    <MESSAGE value="2022.8.19 微软" />
+    <MESSAGE value="2022.8.20 网易" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.20 网易" />
   </component>
 </project>
