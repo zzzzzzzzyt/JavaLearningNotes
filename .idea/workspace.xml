@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.20 网易🔫">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.21 字节可能没了 还得好好想">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,13 +326,9 @@
       <workItem from="1660917749662" duration="670000" />
       <workItem from="1660956692852" duration="598000" />
       <workItem from="1660991498123" duration="315000" />
-    </task>
-    <task id="LOCAL-00127" summary="2022.7.5 加油！">
-      <created>1657033809491</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1657033809491</updated>
+      <workItem from="1660993634820" duration="637000" />
+      <workItem from="1661066598451" duration="5000" />
+      <workItem from="1661088927606" duration="633000" />
     </task>
     <task id="LOCAL-00128" summary="2022.7.6 小曾无敌">
       <created>1657066343685</created>
@@ -669,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660991802464</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="2022.8.20 网易🔫">
+      <created>1660993672831</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1660993672832</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -709,8 +713,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.7.28 好好弄 刨根问底" />
-    <MESSAGE value="2022.7.29 月末周六" />
     <MESSAGE value="2022.7.30 要保持刷" />
     <MESSAGE value="2022.7.31 ak 中间可以有很多提升的地方 写的散漫了" />
     <MESSAGE value="2022.8.1 这个月我要努力  i will do what i say." />
@@ -734,6 +736,8 @@
     <MESSAGE value="2022.8.18 " />
     <MESSAGE value="2022.8.19 微软" />
     <MESSAGE value="2022.8.20 网易" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.20 网易" />
+    <MESSAGE value="2022.8.20 网易" />
+    <MESSAGE value="2022.8.21 字节可能没了 还得好好想" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.8.21 字节可能没了 还得好好想" />
   </component>
 </project>
