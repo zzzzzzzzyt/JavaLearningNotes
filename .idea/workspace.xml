@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.21 字节可能没了 还得好好想">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/刷题册.md" beforeDir="false" afterPath="$PROJECT_DIR$/刷题册.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -328,14 +327,8 @@
       <workItem from="1660991498123" duration="315000" />
       <workItem from="1660993634820" duration="637000" />
       <workItem from="1661066598451" duration="5000" />
-      <workItem from="1661088927606" duration="633000" />
-    </task>
-    <task id="LOCAL-00128" summary="2022.7.6 小曾无敌">
-      <created>1657066343685</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1657066343685</updated>
+      <workItem from="1661088927606" duration="687000" />
+      <workItem from="1661174369204" duration="825000" />
     </task>
     <task id="LOCAL-00129" summary="2022.7.6 接触到代码了 就开始有意思了">
       <created>1657119002009</created>
@@ -673,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660993672832</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="2022.8.21 字节可能没了 还得好好想">
+      <created>1661089595717</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1661089595719</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
