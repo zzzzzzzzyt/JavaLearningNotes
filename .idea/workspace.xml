@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.8.27 谢谢华为云 我会努力的">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.9.5 希望明天能有好消息">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -340,76 +340,26 @@
       <workItem from="1661610345404" duration="381000" />
       <workItem from="1661647978054" duration="1897000" />
       <workItem from="1661665539037" duration="1190000" />
-    </task>
-    <task id="LOCAL-00135" summary="2022.7.10 周赛创纪录">
-      <created>1657431580601</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1657431580601</updated>
-    </task>
-    <task id="LOCAL-00136" summary="2022.7.11 尽人事 听天命">
-      <created>1657552512560</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1657552512560</updated>
-    </task>
-    <task id="LOCAL-00137" summary="2022.7.12 周末回去找老师">
-      <created>1657639267289</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1657639267298</updated>
-    </task>
-    <task id="LOCAL-00138" summary="2022.7.13 继续冲 小曾">
-      <created>1657725455257</created>
-      <option name="number" value="00138" />
-      <option name="presentableId" value="LOCAL-00138" />
-      <option name="project" value="LOCAL" />
-      <updated>1657725455257</updated>
-    </task>
-    <task id="LOCAL-00139" summary="2022.7.16 unstoppable">
-      <created>1657962296612</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1657962296612</updated>
-    </task>
-    <task id="LOCAL-00140" summary="2022.7.16 unstoppable">
-      <created>1657965848061</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1657965848062</updated>
-    </task>
-    <task id="LOCAL-00141" summary="2022.7.17 unstoppable 明天上班但又怎样">
-      <created>1658047107392</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1658047107392</updated>
-    </task>
-    <task id="LOCAL-00142" summary="2022.7.18 冲 明天跑步">
-      <created>1658159632013</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1658159632014</updated>
-    </task>
-    <task id="LOCAL-00143" summary="2022.7.19 腿酸但没事加油">
-      <created>1658243454990</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1658243454992</updated>
-    </task>
-    <task id="LOCAL-00144" summary="2022.7.20 不回家了 还打算回家的本来">
-      <created>1658332016564</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1658332016564</updated>
+      <workItem from="1661672966365" duration="65000" />
+      <workItem from="1661673182740" duration="717000" />
+      <workItem from="1661690469618" duration="138000" />
+      <workItem from="1661735971663" duration="151000" />
+      <workItem from="1661748602294" duration="208000" />
+      <workItem from="1661756169310" duration="600000" />
+      <workItem from="1661848425668" duration="76000" />
+      <workItem from="1661856501682" duration="4000" />
+      <workItem from="1661929101068" duration="41000" />
+      <workItem from="1661932163910" duration="79000" />
+      <workItem from="1662015202257" duration="702000" />
+      <workItem from="1662029465970" duration="14000" />
+      <workItem from="1662114162664" duration="203000" />
+      <workItem from="1662117755874" duration="6000" />
+      <workItem from="1662212585211" duration="390000" />
+      <workItem from="1662301141477" duration="652000" />
+      <workItem from="1662357314004" duration="53000" />
+      <workItem from="1662358346932" duration="20000" />
+      <workItem from="1662380637326" duration="771000" />
+      <workItem from="1662450798678" duration="441000" />
     </task>
     <task id="LOCAL-00145" summary="2022.7.21 回去看看招聘会 中津在搞什么">
       <created>1658411374917</created>
@@ -684,7 +634,77 @@
       <option name="project" value="LOCAL" />
       <updated>1661610710041</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="2022.8.28 红书">
+      <created>1661673019614</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1661673019615</updated>
+    </task>
+    <task id="LOCAL-00185" summary="2022.8.28 要开始做难题了 疯狂准备笔面试">
+      <created>1661690584653</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1661690584653</updated>
+    </task>
+    <task id="LOCAL-00186" summary="2022.8.29 变更一下 相关事宜">
+      <created>1661748780676</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1661748780676</updated>
+    </task>
+    <task id="LOCAL-00187" summary="2022.8.30 一定会成功的 毕业还有就业">
+      <created>1661848490321</created>
+      <option name="number" value="00187" />
+      <option name="presentableId" value="LOCAL-00187" />
+      <option name="project" value="LOCAL" />
+      <updated>1661848490322</updated>
+    </task>
+    <task id="LOCAL-00188" summary="2022.8.31 团子我需要你">
+      <created>1661929130044</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1661929130045</updated>
+    </task>
+    <task id="LOCAL-00189" summary="2022.9.1 接下来能做的就是振作">
+      <created>1662015289554</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1662015289555</updated>
+    </task>
+    <task id="LOCAL-00190" summary="2022.9.2 换个地点保持学习的状态">
+      <created>1662114361320</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1662114361320</updated>
+    </task>
+    <task id="LOCAL-00191" summary="2022.9.3 笔试状态调整">
+      <created>1662212809935</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1662212809936</updated>
+    </task>
+    <task id="LOCAL-00192" summary="2022.9.5 戒骄戒躁 我要冲破天">
+      <created>1662357355064</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1662357355065</updated>
+    </task>
+    <task id="LOCAL-00193" summary="2022.9.5 希望明天能有好消息">
+      <created>1662384116764</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1662384116765</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -724,18 +744,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.8.5 休憩一天" />
-    <MESSAGE value="2022.8.6 I say peace to every one peace to the CDC" />
-    <MESSAGE value="2022.8.7 调整 我需要回归" />
-    <MESSAGE value="2022.8.7 调整 调整" />
-    <MESSAGE value="2022.8.8 keep silence" />
-    <MESSAGE value="2022.8.9 冲" />
-    <MESSAGE value="2022.8.10 加油" />
-    <MESSAGE value="2022.8.11 干" />
-    <MESSAGE value="2022.8.12" />
-    <MESSAGE value="2022.8.13 努力日" />
-    <MESSAGE value="2022.8.14 回住处了" />
-    <MESSAGE value="2022.8.15 冲" />
     <MESSAGE value="2022.8.16 需要找刷题的感觉" />
     <MESSAGE value="2022.8.17 " />
     <MESSAGE value="2022.8.18 " />
@@ -749,6 +757,18 @@
     <MESSAGE value="2022.8.25 关关难过关关过" />
     <MESSAGE value="2022.8.26 谢谢华为云 我会努力的" />
     <MESSAGE value="2022.8.27 谢谢华为云 我会努力的" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.8.27 谢谢华为云 我会努力的" />
+    <MESSAGE value="2022.8.28 红书" />
+    <MESSAGE value="2022.8.28 要开始做难题了 疯狂准备笔面试" />
+    <MESSAGE value="2022.8.29 变更一下 相关事宜" />
+    <MESSAGE value="2022.8.30 一定会成功的 毕业还有就业" />
+    <MESSAGE value="2022.8.31 团子我需要你" />
+    <MESSAGE value="2022.9.1 接下来能做的就是振作" />
+    <MESSAGE value="2022.9.2 换个地点保持学习的状态" />
+    <MESSAGE value="2022.9.3 笔试状态调整" />
+    <MESSAGE value="2022.9.4 好好休息 今天明天全力" />
+    <MESSAGE value="2022.9.5 好好休息 今天明天全力" />
+    <MESSAGE value="2022.9.5 戒骄戒躁 我要冲破天" />
+    <MESSAGE value="2022.9.5 希望明天能有好消息" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.9.5 希望明天能有好消息" />
   </component>
 </project>
