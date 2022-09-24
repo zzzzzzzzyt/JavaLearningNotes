@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.9.17 我还有梦想">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.9.23 时刻准备着曾">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -381,48 +381,18 @@
       <workItem from="1663333675424" duration="774000" />
       <workItem from="1663417066029" duration="112000" />
       <workItem from="1663466304967" duration="95000" />
-    </task>
-    <task id="LOCAL-00157" summary="2022.8.4 七夕  今天解决bug单 部署合入">
-      <created>1659622711736</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1659622711736</updated>
-    </task>
-    <task id="LOCAL-00158" summary="2022.8.5 休憩一天">
-      <created>1659709752002</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1659709752002</updated>
-    </task>
-    <task id="LOCAL-00159" summary="2022.8.6 I say peace to every one peace to the CDC">
-      <created>1659751645932</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1659751645932</updated>
-    </task>
-    <task id="LOCAL-00160" summary="2022.8.7 调整 我需要回归">
-      <created>1659844242919</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1659844242919</updated>
-    </task>
-    <task id="LOCAL-00161" summary="2022.8.7 调整 调整">
-      <created>1659852402626</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1659852402627</updated>
-    </task>
-    <task id="LOCAL-00162" summary="2022.8.8 keep silence">
-      <created>1659968046598</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1659968046598</updated>
+      <workItem from="1663481305880" duration="164000" />
+      <workItem from="1663503706149" duration="616000" />
+      <workItem from="1663586305559" duration="168000" />
+      <workItem from="1663634962376" duration="2509000" />
+      <workItem from="1663669600038" duration="148000" />
+      <workItem from="1663720608769" duration="136000" />
+      <workItem from="1663722999173" duration="9000" />
+      <workItem from="1663726998132" duration="21000" />
+      <workItem from="1663757728489" duration="6000" />
+      <workItem from="1663849363428" duration="2920000" />
+      <workItem from="1663896080988" duration="1010000" />
+      <workItem from="1663906619650" duration="22000" />
     </task>
     <task id="LOCAL-00163" summary="2022.8.9 冲">
       <created>1660055282077</created>
@@ -725,7 +695,49 @@
       <option name="project" value="LOCAL" />
       <updated>1663417163290</updated>
     </task>
-    <option name="localTasksCounter" value="206" />
+    <task id="LOCAL-00206" summary="2022.9.18 勿忘国耻 吾辈自强">
+      <created>1663481449388</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1663481449389</updated>
+    </task>
+    <task id="LOCAL-00207" summary="2022.9.19 冲刷题和技术两手抓">
+      <created>1663586435362</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1663586435363</updated>
+    </task>
+    <task id="LOCAL-00208" summary="2022.9.20 做好自己能做 该做的">
+      <created>1663663831716</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1663663831717</updated>
+    </task>
+    <task id="LOCAL-00209" summary="2022.9.21 加油 马上就要开始相关的面试了">
+      <created>1663720735971</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1663720735972</updated>
+    </task>
+    <task id="LOCAL-00210" summary="2022.9.22 静心">
+      <created>1663849507986</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1663849507987</updated>
+    </task>
+    <task id="LOCAL-00211" summary="2022.9.23 时刻准备着曾">
+      <created>1663897035651</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1663897035652</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -765,12 +777,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.8.27 谢谢华为云 我会努力的" />
-    <MESSAGE value="2022.8.28 红书" />
-    <MESSAGE value="2022.8.28 要开始做难题了 疯狂准备笔面试" />
-    <MESSAGE value="2022.8.29 变更一下 相关事宜" />
-    <MESSAGE value="2022.8.30 一定会成功的 毕业还有就业" />
-    <MESSAGE value="2022.8.31 团子我需要你" />
     <MESSAGE value="2022.9.1 接下来能做的就是振作" />
     <MESSAGE value="2022.9.2 换个地点保持学习的状态" />
     <MESSAGE value="2022.9.3 笔试状态调整" />
@@ -790,6 +796,12 @@
     <MESSAGE value="2022.9.15 保持健康 加油" />
     <MESSAGE value="2022.9.16 继续前进" />
     <MESSAGE value="2022.9.17 我还有梦想" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.9.17 我还有梦想" />
+    <MESSAGE value="2022.9.18 勿忘国耻 吾辈自强" />
+    <MESSAGE value="2022.9.19 冲刷题和技术两手抓" />
+    <MESSAGE value="2022.9.20 做好自己能做 该做的" />
+    <MESSAGE value="2022.9.21 加油 马上就要开始相关的面试了" />
+    <MESSAGE value="2022.9.22 静心" />
+    <MESSAGE value="2022.9.23 时刻准备着曾" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.9.23 时刻准备着曾" />
   </component>
 </project>
