@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.9.24 时刻准备着曾">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.9.26 加油 我要用全力了">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -395,13 +395,8 @@
       <workItem from="1663906619650" duration="22000" />
       <workItem from="1664022532381" duration="782000" />
       <workItem from="1664029026638" duration="8000" />
-    </task>
-    <task id="LOCAL-00164" summary="2022.8.10 加油">
-      <created>1660144118090</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1660144118091</updated>
+      <workItem from="1664157931806" duration="30000" />
+      <workItem from="1664194458595" duration="627000" />
     </task>
     <task id="LOCAL-00165" summary="2022.8.11 干">
       <created>1660228001879</created>
@@ -739,7 +734,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664022702235</updated>
     </task>
-    <option name="localTasksCounter" value="213" />
+    <task id="LOCAL-00213" summary="2022.9.26 冲">
+      <created>1664157950968</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1664157950969</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -779,8 +781,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.2 换个地点保持学习的状态" />
-    <MESSAGE value="2022.9.3 笔试状态调整" />
     <MESSAGE value="2022.9.4 好好休息 今天明天全力" />
     <MESSAGE value="2022.9.5 好好休息 今天明天全力" />
     <MESSAGE value="2022.9.5 戒骄戒躁 我要冲破天" />
@@ -804,6 +804,8 @@
     <MESSAGE value="2022.9.22 静心" />
     <MESSAGE value="2022.9.23 时刻准备着曾" />
     <MESSAGE value="2022.9.24 时刻准备着曾" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.9.24 时刻准备着曾" />
+    <MESSAGE value="2022.9.26 冲" />
+    <MESSAGE value="2022.9.26 加油 我要用全力了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.9.26 加油 我要用全力了" />
   </component>
 </project>
