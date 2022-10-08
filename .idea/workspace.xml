@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.9.29 加油冲" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.9.30 国庆短暂修正后开始科研" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -397,13 +397,7 @@
       <workItem from="1664194458595" duration="647000" />
       <workItem from="1664260924084" duration="1813000" />
       <workItem from="1664354661155" duration="1298000" />
-    </task>
-    <task id="LOCAL-00168" summary="2022.8.14 回住处了">
-      <created>1660464001607</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1660464001608</updated>
+      <workItem from="1664518288240" duration="117000" />
     </task>
     <task id="LOCAL-00169" summary="2022.8.15 冲">
       <created>1660578578414</created>
@@ -741,7 +735,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664361597983</updated>
     </task>
-    <option name="localTasksCounter" value="217" />
+    <task id="LOCAL-00217" summary="2022.9.30 国庆短暂修正后开始科研">
+      <created>1664518380837</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1664518380838</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -781,7 +782,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.5 戒骄戒躁 我要冲破天" />
     <MESSAGE value="2022.9.5 希望明天能有好消息" />
     <MESSAGE value="2022.9.6 继续冲 不能停" />
     <MESSAGE value="2022.9.7 保持刷题 真的" />
@@ -806,6 +806,7 @@
     <MESSAGE value="2022.9.26 加油 我要用全力了" />
     <MESSAGE value="2022.9.28 明天主管面加油 曾" />
     <MESSAGE value="2022.9.29 加油冲" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.9.29 加油冲" />
+    <MESSAGE value="2022.9.30 国庆短暂修正后开始科研" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.9.30 国庆短暂修正后开始科研" />
   </component>
 </project>
