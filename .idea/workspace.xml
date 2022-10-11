@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.9 多做保持手感 tencent">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.10 保持 tencent">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -403,13 +403,8 @@
       <workItem from="1665208903221" duration="474000" />
       <workItem from="1665301685469" duration="651000" />
       <workItem from="1665314966566" duration="10000" />
-    </task>
-    <task id="LOCAL-00171" summary="2022.8.16 需要找刷题的感觉">
-      <created>1660658532197</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1660658532197</updated>
+      <workItem from="1665367912877" duration="672000" />
+      <workItem from="1665491446622" duration="593000" />
     </task>
     <task id="LOCAL-00172" summary="2022.8.17 🔫">
       <created>1660734130494</created>
@@ -747,7 +742,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665305496408</updated>
     </task>
-    <option name="localTasksCounter" value="220" />
+    <task id="LOCAL-00220" summary="2022.10.10 保持 tencent">
+      <created>1665367941795</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1665367941796</updated>
+    </task>
+    <option name="localTasksCounter" value="221" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -787,7 +789,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.7 保持刷题 真的" />
     <MESSAGE value="2022.9.8 这是你最后的机会了 兄弟" />
     <MESSAGE value="2022.9.9 /保持/" />
     <MESSAGE value="2022.9.10 生日快乐" />
@@ -812,6 +813,7 @@
     <MESSAGE value="2022.9.30 国庆短暂修正后开始科研" />
     <MESSAGE value="2022.10.8 科研保持" />
     <MESSAGE value="2022.10.9 多做保持手感 tencent" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.10.9 多做保持手感 tencent" />
+    <MESSAGE value="2022.10.10 保持 tencent" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.10.10 保持 tencent" />
   </component>
 </project>
