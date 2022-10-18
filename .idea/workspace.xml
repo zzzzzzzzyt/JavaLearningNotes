@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.16 真的卷 这人">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.17 平常心">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -413,13 +413,7 @@
       <workItem from="1665802103772" duration="721000" />
       <workItem from="1665920426334" duration="45000" />
       <workItem from="1665921022734" duration="381000" />
-    </task>
-    <task id="LOCAL-00177" summary="2022.8.21 字节可能没了 还得好好想">
-      <created>1661089595717</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1661089595719</updated>
+      <workItem from="1666006002131" duration="899000" />
     </task>
     <task id="LOCAL-00178" summary="2022.8.22 蔚来">
       <created>1661182832677</created>
@@ -757,7 +751,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665920459393</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="2022.10.17 平常心">
+      <created>1666006309059</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1666006309060</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -797,7 +798,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.12 希望明年能过个快乐的中秋" />
     <MESSAGE value="2022.9.13 保持 携程" />
     <MESSAGE value="2022.9.14 想对自己说的只有加油了 曾" />
     <MESSAGE value="2022.9.15 保持健康 加油" />
@@ -822,6 +822,7 @@
     <MESSAGE value="2022.10.13 明天就是服务器科研" />
     <MESSAGE value="2022.10.15 都找到了还不停 真的卷" />
     <MESSAGE value="2022.10.16 真的卷 这人" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.10.16 真的卷 这人" />
+    <MESSAGE value="2022.10.17 平常心" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.10.17 平常心" />
   </component>
 </project>
