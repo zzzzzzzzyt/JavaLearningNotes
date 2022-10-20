@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.17 保持学习状态">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.19 明天海康加油 秋招最后一家">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -416,13 +416,9 @@
       <workItem from="1666006002131" duration="899000" />
       <workItem from="1666054436685" duration="73000" />
       <workItem from="1666060326616" duration="54000" />
-    </task>
-    <task id="LOCAL-00179" summary="2022.8.23 加油吧 曾">
-      <created>1661261800321</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1661261800321</updated>
+      <workItem from="1666165749791" duration="264000" />
+      <workItem from="1666230854143" duration="612000" />
+      <workItem from="1666262708022" duration="572000" />
     </task>
     <task id="LOCAL-00180" summary="2022.8.24 关关难过关关过">
       <created>1661350010882</created>
@@ -760,7 +756,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666054497444</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="2022.10.19 明天海康加油 秋招最后一家">
+      <created>1666165906649</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1666165906650</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -800,7 +803,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.14 想对自己说的只有加油了 曾" />
     <MESSAGE value="2022.9.15 保持健康 加油" />
     <MESSAGE value="2022.9.16 继续前进" />
     <MESSAGE value="2022.9.17 我还有梦想" />
@@ -825,6 +827,7 @@
     <MESSAGE value="2022.10.16 真的卷 这人" />
     <MESSAGE value="2022.10.17 平常心" />
     <MESSAGE value="2022.10.17 保持学习状态" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.10.17 保持学习状态" />
+    <MESSAGE value="2022.10.19 明天海康加油 秋招最后一家" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.10.19 明天海康加油 秋招最后一家" />
   </component>
 </project>
