@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.21 明天该找老师了" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.22 时间不多了抓紧啊" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -418,13 +418,7 @@
       <workItem from="1666230854143" duration="612000" />
       <workItem from="1666262708022" duration="787000" />
       <workItem from="1666351001616" duration="94000" />
-    </task>
-    <task id="LOCAL-00182" summary="2022.8.26 谢谢华为云 我会努力的">
-      <created>1661528589100</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1661528589100</updated>
+      <workItem from="1666402990523" duration="311000" />
     </task>
     <task id="LOCAL-00183" summary="2022.8.27 谢谢华为云 我会努力的">
       <created>1661610710040</created>
@@ -762,7 +756,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666351022731</updated>
     </task>
-    <option name="localTasksCounter" value="231" />
+    <task id="LOCAL-00231" summary="2022.10.22 时间不多了抓紧啊">
+      <created>1666403023521</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1666403023522</updated>
+    </task>
+    <option name="localTasksCounter" value="232" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -802,7 +803,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.17 我还有梦想" />
     <MESSAGE value="2022.9.18 勿忘国耻 吾辈自强" />
     <MESSAGE value="2022.9.19 冲刷题和技术两手抓" />
     <MESSAGE value="2022.9.20 做好自己能做 该做的" />
@@ -827,6 +827,7 @@
     <MESSAGE value="2022.10.19 明天海康加油 秋招最后一家" />
     <MESSAGE value="2022.10.20 专利 我是认真的" />
     <MESSAGE value="2022.10.21 明天该找老师了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.10.21 明天该找老师了" />
+    <MESSAGE value="2022.10.22 时间不多了抓紧啊" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.10.22 时间不多了抓紧啊" />
   </component>
 </project>
