@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.25 保持战斗力和状态">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.26 接个好运 拜托了">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -427,13 +427,8 @@
       <workItem from="1666674414294" duration="593000" />
       <workItem from="1666675488740" duration="1693000" />
       <workItem from="1666745740455" duration="598000" />
-    </task>
-    <task id="LOCAL-00186" summary="2022.8.29 变更一下 相关事宜">
-      <created>1661748780676</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1661748780676</updated>
+      <workItem from="1666790841140" duration="195000" />
+      <workItem from="1666832153488" duration="615000" />
     </task>
     <task id="LOCAL-00187" summary="2022.8.30 一定会成功的 毕业还有就业">
       <created>1661848490321</created>
@@ -771,7 +766,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666658688412</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="2022.10.26 接个好运 拜托了">
+      <created>1666790983293</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1666790983294</updated>
+    </task>
+    <option name="localTasksCounter" value="236" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -811,7 +813,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.21 加油 马上就要开始相关的面试了" />
     <MESSAGE value="2022.9.22 静心" />
     <MESSAGE value="2022.9.23 时刻准备着曾" />
     <MESSAGE value="2022.9.24 时刻准备着曾" />
@@ -836,6 +837,7 @@
     <MESSAGE value="2022.10.23 加油" />
     <MESSAGE value="2022.10.24 程序员节 调整好 秋招毕业 让自己快乐" />
     <MESSAGE value="2022.10.25 保持战斗力和状态" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.10.25 保持战斗力和状态" />
+    <MESSAGE value="2022.10.26 接个好运 拜托了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.10.26 接个好运 拜托了" />
   </component>
 </project>
