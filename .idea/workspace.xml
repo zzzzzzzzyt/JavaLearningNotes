@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.28 现在就是努力 奋斗">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.10.30 直面明天的压力">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -432,28 +432,12 @@
       <workItem from="1666862916296" duration="644000" />
       <workItem from="1666916512059" duration="469000" />
       <workItem from="1666925074882" duration="247000" />
-      <workItem from="1667011902543" duration="293000" />
-    </task>
-    <task id="LOCAL-00189" summary="2022.9.1 接下来能做的就是振作">
-      <created>1662015289554</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1662015289555</updated>
-    </task>
-    <task id="LOCAL-00190" summary="2022.9.2 换个地点保持学习的状态">
-      <created>1662114361320</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1662114361320</updated>
-    </task>
-    <task id="LOCAL-00191" summary="2022.9.3 笔试状态调整">
-      <created>1662212809935</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1662212809936</updated>
+      <workItem from="1667011902543" duration="364000" />
+      <workItem from="1667047423220" duration="111000" />
+      <workItem from="1667093378270" duration="33000" />
+      <workItem from="1667108266200" duration="999000" />
+      <workItem from="1667115795174" duration="4000" />
+      <workItem from="1667178720274" duration="593000" />
     </task>
     <task id="LOCAL-00192" summary="2022.9.5 戒骄戒躁 我要冲破天">
       <created>1662357355064</created>
@@ -777,7 +761,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666925230706</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="2022.10.29 等律师了 给个机会吧">
+      <created>1667012263181</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1667012263181</updated>
+    </task>
+    <task id="LOCAL-00239" summary="2022.10.29 停止摆烂">
+      <created>1667047533293</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1667047533294</updated>
+    </task>
+    <task id="LOCAL-00240" summary="2022.10.30 直面明天的压力">
+      <created>1667108992902</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1667108992902</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -817,9 +822,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.9.24 时刻准备着曾" />
-    <MESSAGE value="2022.9.26 冲" />
-    <MESSAGE value="2022.9.26 加油 我要用全力了" />
     <MESSAGE value="2022.9.28 明天主管面加油 曾" />
     <MESSAGE value="2022.9.29 加油冲" />
     <MESSAGE value="2022.9.30 国庆短暂修正后开始科研" />
@@ -842,6 +844,9 @@
     <MESSAGE value="2022.10.26 接个好运 拜托了" />
     <MESSAGE value="2022.10.27 华子明天开始报批" />
     <MESSAGE value="2022.10.28 现在就是努力 奋斗" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.10.28 现在就是努力 奋斗" />
+    <MESSAGE value="2022.10.29 等律师了 给个机会吧" />
+    <MESSAGE value="2022.10.29 停止摆烂" />
+    <MESSAGE value="2022.10.30 直面明天的压力" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.10.30 直面明天的压力" />
   </component>
 </project>
