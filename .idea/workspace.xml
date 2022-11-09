@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.11.6 加油">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.11.8 准备春招">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -446,27 +446,9 @@
       <workItem from="1667699436714" duration="49000" />
       <workItem from="1667706567548" duration="95000" />
       <workItem from="1667714387294" duration="353000" />
-    </task>
-    <task id="LOCAL-00198" summary="2022.9.10 生日快乐">
-      <created>1662809387862</created>
-      <option name="number" value="00198" />
-      <option name="presentableId" value="LOCAL-00198" />
-      <option name="project" value="LOCAL" />
-      <updated>1662809387862</updated>
-    </task>
-    <task id="LOCAL-00199" summary="2022.9.11 我怀念的是一起做梦">
-      <created>1662876095507</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1662876095507</updated>
-    </task>
-    <task id="LOCAL-00200" summary="2022.9.12 希望明年能过个快乐的中秋">
-      <created>1662970065737</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1662970065737</updated>
+      <workItem from="1667717512013" duration="100000" />
+      <workItem from="1667783289065" duration="2449000" />
+      <workItem from="1667868767019" duration="1265000" />
     </task>
     <task id="LOCAL-00201" summary="2022.9.13 保持 携程">
       <created>1663074537753</created>
@@ -790,7 +772,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667706661279</updated>
     </task>
-    <option name="localTasksCounter" value="247" />
+    <task id="LOCAL-00247" summary="2022.11.6 明天 嗯">
+      <created>1667717582518</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1667717582519</updated>
+    </task>
+    <task id="LOCAL-00248" summary="2022.11.7  持续推进">
+      <created>1667800318026</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1667800318027</updated>
+    </task>
+    <task id="LOCAL-00249" summary="2022.11.8 准备春招">
+      <created>1667881194193</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1667881194194</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -830,9 +833,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.10.11 太卷了" />
-    <MESSAGE value="2022.10.13 明天就是服务器科研" />
-    <MESSAGE value="2022.10.15 都找到了还不停 真的卷" />
     <MESSAGE value="2022.10.16 真的卷 这人" />
     <MESSAGE value="2022.10.17 平常心" />
     <MESSAGE value="2022.10.17 保持学习状态" />
@@ -855,6 +855,9 @@
     <MESSAGE value="2022.11.3 周五之后开始学新的东西" />
     <MESSAGE value="2022.11.5 做自己吧" />
     <MESSAGE value="2022.11.6 加油" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.11.6 加油" />
+    <MESSAGE value="2022.11.6 明天 嗯" />
+    <MESSAGE value="2022.11.7  持续推进" />
+    <MESSAGE value="2022.11.8 准备春招" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.11.8 准备春招" />
   </component>
 </project>
