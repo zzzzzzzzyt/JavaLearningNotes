@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.11.29 暂停一下">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.2 没什么问题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -479,20 +479,8 @@
       <workItem from="1669513618164" duration="640000" />
       <workItem from="1669601528181" duration="60000" />
       <workItem from="1669681597630" duration="386000" />
-    </task>
-    <task id="LOCAL-00223" summary="2022.10.13 明天就是服务器科研">
-      <created>1665656682830</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1665656682830</updated>
-    </task>
-    <task id="LOCAL-00224" summary="2022.10.15 都找到了还不停 真的卷">
-      <created>1665803104266</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1665803104266</updated>
+      <workItem from="1669769437282" duration="79000" />
+      <workItem from="1669948108691" duration="296000" />
     </task>
     <task id="LOCAL-00225" summary="2022.10.16 真的卷 这人">
       <created>1665920459392</created>
@@ -823,7 +811,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669681733684</updated>
     </task>
-    <option name="localTasksCounter" value="272" />
+    <task id="LOCAL-00272" summary="2022.11.30 加油">
+      <created>1669769503178</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1669769503178</updated>
+    </task>
+    <task id="LOCAL-00273" summary="2022.12.2 没什么问题">
+      <created>1669948380979</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1669948380979</updated>
+    </task>
+    <option name="localTasksCounter" value="274" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -863,8 +865,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.6 明天 嗯" />
-    <MESSAGE value="2022.11.7  持续推进" />
     <MESSAGE value="2022.11.8 准备春招" />
     <MESSAGE value="2022.11.9 域名要到期了 现在就是想自己有什么新的方法去吸引眼球了" />
     <MESSAGE value="2022.11.10 加油三方寄了 轻松了" />
@@ -888,6 +888,8 @@
     <MESSAGE value="2022.11.27 保持前进" />
     <MESSAGE value="2022.11.28 白纸 保持竞争力" />
     <MESSAGE value="2022.11.29 暂停一下" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.11.29 暂停一下" />
+    <MESSAGE value="2022.11.30 加油" />
+    <MESSAGE value="2022.12.2 没什么问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.2 没什么问题" />
   </component>
 </project>
