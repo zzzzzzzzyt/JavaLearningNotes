@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.2 没什么问题">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.3 保持专心 保持专注">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -481,13 +481,8 @@
       <workItem from="1669681597630" duration="386000" />
       <workItem from="1669769437282" duration="79000" />
       <workItem from="1669948108691" duration="296000" />
-    </task>
-    <task id="LOCAL-00225" summary="2022.10.16 真的卷 这人">
-      <created>1665920459392</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1665920459393</updated>
+      <workItem from="1670071013904" duration="753000" />
+      <workItem from="1670116286464" duration="280000" />
     </task>
     <task id="LOCAL-00226" summary="2022.10.17 平常心">
       <created>1666006309059</created>
@@ -825,7 +820,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669948380979</updated>
     </task>
-    <option name="localTasksCounter" value="274" />
+    <task id="LOCAL-00274" summary="2022.12.3 保持专心 保持专注">
+      <created>1670076987893</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1670076987893</updated>
+    </task>
+    <option name="localTasksCounter" value="275" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -865,7 +867,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.8 准备春招" />
     <MESSAGE value="2022.11.9 域名要到期了 现在就是想自己有什么新的方法去吸引眼球了" />
     <MESSAGE value="2022.11.10 加油三方寄了 轻松了" />
     <MESSAGE value="2022.11.11 还在拖？" />
@@ -890,6 +891,7 @@
     <MESSAGE value="2022.11.29 暂停一下" />
     <MESSAGE value="2022.11.30 加油" />
     <MESSAGE value="2022.12.2 没什么问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.12.2 没什么问题" />
+    <MESSAGE value="2022.12.3 保持专心 保持专注" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.3 保持专心 保持专注" />
   </component>
 </project>
