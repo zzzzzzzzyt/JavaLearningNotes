@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.3 保持专心 保持专注">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.4 保持学习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/外快/demo5/HashMapTester.java" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -482,14 +482,8 @@
       <workItem from="1669769437282" duration="79000" />
       <workItem from="1669948108691" duration="296000" />
       <workItem from="1670071013904" duration="753000" />
-      <workItem from="1670116286464" duration="280000" />
-    </task>
-    <task id="LOCAL-00226" summary="2022.10.17 平常心">
-      <created>1666006309059</created>
-      <option name="number" value="00226" />
-      <option name="presentableId" value="LOCAL-00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1666006309060</updated>
+      <workItem from="1670116286464" duration="898000" />
+      <workItem from="1670219386377" duration="231000" />
     </task>
     <task id="LOCAL-00227" summary="2022.10.17 保持学习状态">
       <created>1666054497443</created>
@@ -827,7 +821,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670076987893</updated>
     </task>
-    <option name="localTasksCounter" value="275" />
+    <task id="LOCAL-00275" summary="2022.12.4 保持学习">
+      <created>1670117117126</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1670117117127</updated>
+    </task>
+    <option name="localTasksCounter" value="276" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -867,7 +868,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.9 域名要到期了 现在就是想自己有什么新的方法去吸引眼球了" />
     <MESSAGE value="2022.11.10 加油三方寄了 轻松了" />
     <MESSAGE value="2022.11.11 还在拖？" />
     <MESSAGE value="2022.11.12 这老师牛" />
@@ -892,6 +892,7 @@
     <MESSAGE value="2022.11.30 加油" />
     <MESSAGE value="2022.12.2 没什么问题" />
     <MESSAGE value="2022.12.3 保持专心 保持专注" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.12.3 保持专心 保持专注" />
+    <MESSAGE value="2022.12.4 保持学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.4 保持学习" />
   </component>
 </project>
