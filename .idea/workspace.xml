@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.4 保持学习">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.6 小论文优先">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -484,13 +484,8 @@
       <workItem from="1670071013904" duration="753000" />
       <workItem from="1670116286464" duration="898000" />
       <workItem from="1670219386377" duration="231000" />
-    </task>
-    <task id="LOCAL-00227" summary="2022.10.17 保持学习状态">
-      <created>1666054497443</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1666054497444</updated>
+      <workItem from="1670287249916" duration="175000" />
+      <workItem from="1670290888490" duration="46000" />
     </task>
     <task id="LOCAL-00228" summary="2022.10.19 明天海康加油 秋招最后一家">
       <created>1666165906649</created>
@@ -828,7 +823,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670117117127</updated>
     </task>
-    <option name="localTasksCounter" value="276" />
+    <task id="LOCAL-00276" summary="2022.12.6 小论文优先">
+      <created>1670287340673</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1670287340675</updated>
+    </task>
+    <option name="localTasksCounter" value="277" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -868,7 +870,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.10 加油三方寄了 轻松了" />
     <MESSAGE value="2022.11.11 还在拖？" />
     <MESSAGE value="2022.11.12 这老师牛" />
     <MESSAGE value="2022.11.13 心沉浸下来 周赛惨败" />
@@ -893,6 +894,7 @@
     <MESSAGE value="2022.12.2 没什么问题" />
     <MESSAGE value="2022.12.3 保持专心 保持专注" />
     <MESSAGE value="2022.12.4 保持学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.12.4 保持学习" />
+    <MESSAGE value="2022.12.6 小论文优先" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.6 小论文优先" />
   </component>
 </project>
