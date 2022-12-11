@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.6 小论文优先">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.10 小论文结束 准备开始回归" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -486,13 +484,7 @@
       <workItem from="1670219386377" duration="231000" />
       <workItem from="1670287249916" duration="175000" />
       <workItem from="1670290888490" duration="46000" />
-    </task>
-    <task id="LOCAL-00228" summary="2022.10.19 明天海康加油 秋招最后一家">
-      <created>1666165906649</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1666165906650</updated>
+      <workItem from="1670633019936" duration="624000" />
     </task>
     <task id="LOCAL-00229" summary="2022.10.20 专利 我是认真的">
       <created>1666263455486</created>
@@ -830,7 +822,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670287340675</updated>
     </task>
-    <option name="localTasksCounter" value="277" />
+    <task id="LOCAL-00277" summary="2022.12.10 小论文结束 准备开始回归">
+      <created>1670633641402</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1670633641403</updated>
+    </task>
+    <option name="localTasksCounter" value="278" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -870,7 +869,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.11 还在拖？" />
     <MESSAGE value="2022.11.12 这老师牛" />
     <MESSAGE value="2022.11.13 心沉浸下来 周赛惨败" />
     <MESSAGE value="2022.11.13 心沉浸下来 周赛惨败 沉心" />
@@ -895,6 +893,7 @@
     <MESSAGE value="2022.12.3 保持专心 保持专注" />
     <MESSAGE value="2022.12.4 保持学习" />
     <MESSAGE value="2022.12.6 小论文优先" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.12.6 小论文优先" />
+    <MESSAGE value="2022.12.10 小论文结束 准备开始回归" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.10 小论文结束 准备开始回归" />
   </component>
 </project>
