@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.21 1">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.28 回归 曾">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/外快/demo9" />
+    <property name="last_opened_file_path" value="F:/外快/demo21" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -497,13 +497,8 @@
       <workItem from="1671547956530" duration="118000" />
       <workItem from="1671615591844" duration="63000" />
       <workItem from="1671959166915" duration="73000" />
-    </task>
-    <task id="LOCAL-00235" summary="2022.10.26 接个好运 拜托了">
-      <created>1666790983293</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1666790983294</updated>
+      <workItem from="1672203859345" duration="493000" />
+      <workItem from="1672204480824" duration="237000" />
     </task>
     <task id="LOCAL-00236" summary="2022.10.27 华子明天开始报批">
       <created>1666867074462</created>
@@ -841,7 +836,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671615662728</updated>
     </task>
-    <option name="localTasksCounter" value="284" />
+    <task id="LOCAL-00284" summary="2022.12.28 回归 曾">
+      <created>1672203887647</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1672203887647</updated>
+    </task>
+    <option name="localTasksCounter" value="285" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -881,7 +883,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.17 持续抗压" />
     <MESSAGE value="2022.11.18 find" />
     <MESSAGE value="2022.11.20 冲" />
     <MESSAGE value="2022.11.21 加油吧 yt" />
@@ -906,6 +907,7 @@
     <MESSAGE value="2022.12.19 钱和论文 冲" />
     <MESSAGE value="2022.12.20 1" />
     <MESSAGE value="2022.12.21 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.12.21 1" />
+    <MESSAGE value="2022.12.28 回归 曾" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.28 回归 曾" />
   </component>
 </project>
