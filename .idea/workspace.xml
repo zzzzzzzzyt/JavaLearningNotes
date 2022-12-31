@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.28 回归 曾">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2022.12.30 back">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -499,13 +499,8 @@
       <workItem from="1671959166915" duration="73000" />
       <workItem from="1672203859345" duration="493000" />
       <workItem from="1672204480824" duration="237000" />
-    </task>
-    <task id="LOCAL-00236" summary="2022.10.27 华子明天开始报批">
-      <created>1666867074462</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1666867074462</updated>
+      <workItem from="1672368933923" duration="43000" />
+      <workItem from="1672386661822" duration="6000" />
     </task>
     <task id="LOCAL-00237" summary="2022.10.28 现在就是努力 奋斗">
       <created>1666925230706</created>
@@ -843,7 +838,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672203887647</updated>
     </task>
-    <option name="localTasksCounter" value="285" />
+    <task id="LOCAL-00285" summary="2022.12.30 back">
+      <created>1672368964498</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1672368964499</updated>
+    </task>
+    <option name="localTasksCounter" value="286" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -883,7 +885,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.18 find" />
     <MESSAGE value="2022.11.20 冲" />
     <MESSAGE value="2022.11.21 加油吧 yt" />
     <MESSAGE value="2022.11.22 开始要卷了" />
@@ -908,6 +909,7 @@
     <MESSAGE value="2022.12.20 1" />
     <MESSAGE value="2022.12.21 1" />
     <MESSAGE value="2022.12.28 回归 曾" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022.12.28 回归 曾" />
+    <MESSAGE value="2022.12.30 back" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022.12.30 back" />
   </component>
 </project>
