@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.5 昨天第一次 希望是最后一次">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.7 血累" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -505,13 +503,7 @@
       <workItem from="1672716511906" duration="662000" />
       <workItem from="1672893440378" duration="816000" />
       <workItem from="1672897733085" duration="152000" />
-    </task>
-    <task id="LOCAL-00240" summary="2022.10.30 直面明天的压力">
-      <created>1667108992902</created>
-      <option name="number" value="00240" />
-      <option name="presentableId" value="LOCAL-00240" />
-      <option name="project" value="LOCAL" />
-      <updated>1667108992902</updated>
+      <workItem from="1673077275179" duration="94000" />
     </task>
     <task id="LOCAL-00241" summary="2022.10.31 继续">
       <created>1667185402310</created>
@@ -849,7 +841,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672897530883</updated>
     </task>
-    <option name="localTasksCounter" value="289" />
+    <task id="LOCAL-00289" summary="2023.1.7 血累">
+      <created>1673077350073</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1673077350074</updated>
+    </task>
+    <option name="localTasksCounter" value="290" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -889,7 +888,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.23 天天那么晚" />
     <MESSAGE value="2022.11.24 keep going" />
     <MESSAGE value="2022.11.25 我觉得保持势头往前冲就是了" />
     <MESSAGE value="2022.11.25 继续保持 准备开冲" />
@@ -914,6 +912,7 @@
     <MESSAGE value="2022.12.31 希望明年可以活的自由点 找个女朋友吧" />
     <MESSAGE value="2023.1.3 玩了很久了" />
     <MESSAGE value="2023.1.5 昨天第一次 希望是最后一次" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.1.5 昨天第一次 希望是最后一次" />
+    <MESSAGE value="2023.1.7 血累" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.1.7 血累" />
   </component>
 </project>
