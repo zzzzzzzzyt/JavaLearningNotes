@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.10 鹅鸭杀维护">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.16 摆烂一个月了" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -508,13 +506,7 @@
       <workItem from="1673077275179" duration="94000" />
       <workItem from="1673330283020" duration="36000" />
       <workItem from="1673330437110" duration="710000" />
-    </task>
-    <task id="LOCAL-00242" summary="2022.11.1 海康来了 等华">
-      <created>1667273285494</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1667273285494</updated>
+      <workItem from="1673837842676" duration="90000" />
     </task>
     <task id="LOCAL-00243" summary="2022.11.2 保持状态准备学新东西">
       <created>1667354907057</created>
@@ -852,7 +844,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673330303248</updated>
     </task>
-    <option name="localTasksCounter" value="291" />
+    <task id="LOCAL-00291" summary="2023.1.16 摆烂一个月了">
+      <created>1673837916705</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1673837916705</updated>
+    </task>
+    <option name="localTasksCounter" value="292" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -892,7 +891,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.25 我觉得保持势头往前冲就是了" />
     <MESSAGE value="2022.11.25 继续保持 准备开冲" />
     <MESSAGE value="2022.11.26 不能停" />
     <MESSAGE value="2022.11.27 保持前进" />
@@ -917,6 +915,7 @@
     <MESSAGE value="2023.1.5 昨天第一次 希望是最后一次" />
     <MESSAGE value="2023.1.7 血累" />
     <MESSAGE value="2023.1.10 鹅鸭杀维护" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.1.10 鹅鸭杀维护" />
+    <MESSAGE value="2023.1.16 摆烂一个月了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.1.16 摆烂一个月了" />
   </component>
 </project>
