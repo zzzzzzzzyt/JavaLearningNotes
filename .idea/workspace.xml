@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.16 摆烂一个月了" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.21" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -507,13 +507,7 @@
       <workItem from="1673330283020" duration="36000" />
       <workItem from="1673330437110" duration="710000" />
       <workItem from="1673837842676" duration="90000" />
-    </task>
-    <task id="LOCAL-00243" summary="2022.11.2 保持状态准备学新东西">
-      <created>1667354907057</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1667354907058</updated>
+      <workItem from="1674299802470" duration="34000" />
     </task>
     <task id="LOCAL-00244" summary="2022.11.3 周五之后开始学新的东西">
       <created>1667443135525</created>
@@ -851,7 +845,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673837916705</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="2023.1.21">
+      <created>1674299823816</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1674299823817</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -891,7 +892,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.25 继续保持 准备开冲" />
     <MESSAGE value="2022.11.26 不能停" />
     <MESSAGE value="2022.11.27 保持前进" />
     <MESSAGE value="2022.11.28 白纸 保持竞争力" />
@@ -916,6 +916,7 @@
     <MESSAGE value="2023.1.7 血累" />
     <MESSAGE value="2023.1.10 鹅鸭杀维护" />
     <MESSAGE value="2023.1.16 摆烂一个月了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.1.16 摆烂一个月了" />
+    <MESSAGE value="2023.1.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.1.21" />
   </component>
 </project>
