@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.21" />
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.26 过完年了">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../x-admin" />
+    <property name="last_opened_file_path" value="F:/外快/demo28/microVideo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -508,13 +510,8 @@
       <workItem from="1673330437110" duration="710000" />
       <workItem from="1673837842676" duration="90000" />
       <workItem from="1674299802470" duration="34000" />
-    </task>
-    <task id="LOCAL-00244" summary="2022.11.3 周五之后开始学新的东西">
-      <created>1667443135525</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1667443135527</updated>
+      <workItem from="1674715332955" duration="693000" />
+      <workItem from="1675080378116" duration="745000" />
     </task>
     <task id="LOCAL-00245" summary="2022.11.5 做自己吧">
       <created>1667616287376</created>
@@ -852,7 +849,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674299823817</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="2023.1.26 过完年了">
+      <created>1674715418003</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1674715418004</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -892,7 +896,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.26 不能停" />
     <MESSAGE value="2022.11.27 保持前进" />
     <MESSAGE value="2022.11.28 白纸 保持竞争力" />
     <MESSAGE value="2022.11.29 暂停一下" />
@@ -917,6 +920,7 @@
     <MESSAGE value="2023.1.10 鹅鸭杀维护" />
     <MESSAGE value="2023.1.16 摆烂一个月了" />
     <MESSAGE value="2023.1.21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.1.21" />
+    <MESSAGE value="2023.1.26 过完年了" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.1.26 过完年了" />
   </component>
 </project>
