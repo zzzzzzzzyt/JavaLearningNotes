@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.1.26 过完年了">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.2 停止摆烂" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -512,13 +510,7 @@
       <workItem from="1674299802470" duration="34000" />
       <workItem from="1674715332955" duration="693000" />
       <workItem from="1675080378116" duration="745000" />
-    </task>
-    <task id="LOCAL-00245" summary="2022.11.5 做自己吧">
-      <created>1667616287376</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1667616287376</updated>
+      <workItem from="1675330757846" duration="69000" />
     </task>
     <task id="LOCAL-00246" summary="2022.11.6 加油">
       <created>1667706661276</created>
@@ -856,7 +848,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674715418004</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="2023.2.2 停止摆烂">
+      <created>1675330785386</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1675330785386</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -896,7 +895,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.27 保持前进" />
     <MESSAGE value="2022.11.28 白纸 保持竞争力" />
     <MESSAGE value="2022.11.29 暂停一下" />
     <MESSAGE value="2022.11.30 加油" />
@@ -921,6 +919,7 @@
     <MESSAGE value="2023.1.16 摆烂一个月了" />
     <MESSAGE value="2023.1.21" />
     <MESSAGE value="2023.1.26 过完年了" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.1.26 过完年了" />
+    <MESSAGE value="2023.2.2 停止摆烂" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.2.2 停止摆烂" />
   </component>
 </project>
