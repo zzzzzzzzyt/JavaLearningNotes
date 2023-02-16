@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.5 回学校开始学习">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.12 写论文">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -516,13 +516,8 @@
       <workItem from="1675601237571" duration="42000" />
       <workItem from="1675822065421" duration="51000" />
       <workItem from="1675823050755" duration="218000" />
-    </task>
-    <task id="LOCAL-00247" summary="2022.11.6 明天 嗯">
-      <created>1667717582518</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1667717582519</updated>
+      <workItem from="1676167976366" duration="55000" />
+      <workItem from="1676200073394" duration="5000" />
     </task>
     <task id="LOCAL-00248" summary="2022.11.7  持续推进">
       <created>1667800318026</created>
@@ -860,7 +855,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675601263285</updated>
     </task>
-    <option name="localTasksCounter" value="296" />
+    <task id="LOCAL-00296" summary="2023.2.12 写论文">
+      <created>1676167997229</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1676167997229</updated>
+    </task>
+    <option name="localTasksCounter" value="297" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -900,7 +902,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.11.29 暂停一下" />
     <MESSAGE value="2022.11.30 加油" />
     <MESSAGE value="2022.12.2 没什么问题" />
     <MESSAGE value="2022.12.3 保持专心 保持专注" />
@@ -925,6 +926,7 @@
     <MESSAGE value="2023.1.26 过完年了" />
     <MESSAGE value="2023.2.2 停止摆烂" />
     <MESSAGE value="2023.2.5 回学校开始学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.2.5 回学校开始学习" />
+    <MESSAGE value="2023.2.12 写论文" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.2.12 写论文" />
   </component>
 </project>
