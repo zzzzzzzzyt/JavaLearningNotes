@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.16 保持干劲">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.19 赚钱论文">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/外快/demo37" />
+    <property name="last_opened_file_path" value="F:/外快/demo37/assignment06" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -521,13 +521,8 @@
       <workItem from="1676510642727" duration="94000" />
       <workItem from="1676515227515" duration="118000" />
       <workItem from="1676684653853" duration="91000" />
-    </task>
-    <task id="LOCAL-00249" summary="2022.11.8 准备春招">
-      <created>1667881194193</created>
-      <option name="number" value="00249" />
-      <option name="presentableId" value="LOCAL-00249" />
-      <option name="project" value="LOCAL" />
-      <updated>1667881194194</updated>
+      <workItem from="1676814168374" duration="40000" />
+      <workItem from="1676852083619" duration="86000" />
     </task>
     <task id="LOCAL-00250" summary="2022.11.9 域名要到期了 现在就是想自己有什么新的方法去吸引眼球了">
       <created>1667962174511</created>
@@ -865,7 +860,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676510698634</updated>
     </task>
-    <option name="localTasksCounter" value="298" />
+    <task id="LOCAL-00298" summary="2023.2.19 赚钱论文">
+      <created>1676814189849</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1676814189849</updated>
+    </task>
+    <option name="localTasksCounter" value="299" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -905,7 +907,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.12.2 没什么问题" />
     <MESSAGE value="2022.12.3 保持专心 保持专注" />
     <MESSAGE value="2022.12.4 保持学习" />
     <MESSAGE value="2022.12.6 小论文优先" />
@@ -930,6 +931,7 @@
     <MESSAGE value="2023.2.5 回学校开始学习" />
     <MESSAGE value="2023.2.12 写论文" />
     <MESSAGE value="2023.2.16 保持干劲" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.2.16 保持干劲" />
+    <MESSAGE value="2023.2.19 赚钱论文" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.2.19 赚钱论文" />
   </component>
 </project>
