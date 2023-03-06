@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.19 赚钱论文">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.25 论文已交 等待修改 等待专利">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -523,13 +523,13 @@
       <workItem from="1676684653853" duration="91000" />
       <workItem from="1676814168374" duration="40000" />
       <workItem from="1676852083619" duration="86000" />
-    </task>
-    <task id="LOCAL-00250" summary="2022.11.9 域名要到期了 现在就是想自己有什么新的方法去吸引眼球了">
-      <created>1667962174511</created>
-      <option name="number" value="00250" />
-      <option name="presentableId" value="LOCAL-00250" />
-      <option name="project" value="LOCAL" />
-      <updated>1667962174511</updated>
+      <workItem from="1677314317143" duration="85000" />
+      <workItem from="1677327467084" duration="772000" />
+      <workItem from="1677379303383" duration="611000" />
+      <workItem from="1677409114170" duration="1856000" />
+      <workItem from="1677463099015" duration="1462000" />
+      <workItem from="1677896812047" duration="697000" />
+      <workItem from="1678069884225" duration="594000" />
     </task>
     <task id="LOCAL-00251" summary="2022.11.10 加油三方寄了 轻松了">
       <created>1668071409297</created>
@@ -867,7 +867,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676814189849</updated>
     </task>
-    <option name="localTasksCounter" value="299" />
+    <task id="LOCAL-00299" summary="2023.2.25 论文已交 等待修改 等待专利">
+      <created>1677314363719</created>
+      <option name="number" value="00299" />
+      <option name="presentableId" value="LOCAL-00299" />
+      <option name="project" value="LOCAL" />
+      <updated>1677314363719</updated>
+    </task>
+    <option name="localTasksCounter" value="300" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -907,7 +914,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.12.3 保持专心 保持专注" />
     <MESSAGE value="2022.12.4 保持学习" />
     <MESSAGE value="2022.12.6 小论文优先" />
     <MESSAGE value="2022.12.10 小论文结束 准备开始回归" />
@@ -932,6 +938,7 @@
     <MESSAGE value="2023.2.12 写论文" />
     <MESSAGE value="2023.2.16 保持干劲" />
     <MESSAGE value="2023.2.19 赚钱论文" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.2.19 赚钱论文" />
+    <MESSAGE value="2023.2.25 论文已交 等待修改 等待专利" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.2.25 论文已交 等待修改 等待专利" />
   </component>
 </project>
