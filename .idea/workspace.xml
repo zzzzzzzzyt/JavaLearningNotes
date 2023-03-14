@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.2.25 论文已交 等待修改 等待专利">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.3.6 等待吧">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -529,14 +529,8 @@
       <workItem from="1677409114170" duration="1856000" />
       <workItem from="1677463099015" duration="1462000" />
       <workItem from="1677896812047" duration="697000" />
-      <workItem from="1678069884225" duration="594000" />
-    </task>
-    <task id="LOCAL-00251" summary="2022.11.10 加油三方寄了 轻松了">
-      <created>1668071409297</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1668071409298</updated>
+      <workItem from="1678069884225" duration="636000" />
+      <workItem from="1678085793661" duration="30000" />
     </task>
     <task id="LOCAL-00252" summary="2022.11.11 还在拖？">
       <created>1668132955812</created>
@@ -874,7 +868,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677314363719</updated>
     </task>
-    <option name="localTasksCounter" value="300" />
+    <task id="LOCAL-00300" summary="2023.3.6 等待吧">
+      <created>1678070715645</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1678070715645</updated>
+    </task>
+    <option name="localTasksCounter" value="301" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -914,7 +915,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.12.4 保持学习" />
     <MESSAGE value="2022.12.6 小论文优先" />
     <MESSAGE value="2022.12.10 小论文结束 准备开始回归" />
     <MESSAGE value="2022.12.11 赚钱和学习 冲！" />
@@ -939,6 +939,7 @@
     <MESSAGE value="2023.2.16 保持干劲" />
     <MESSAGE value="2023.2.19 赚钱论文" />
     <MESSAGE value="2023.2.25 论文已交 等待修改 等待专利" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.2.25 论文已交 等待修改 等待专利" />
+    <MESSAGE value="2023.3.6 等待吧" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.3.6 等待吧" />
   </component>
 </project>
