@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.3.6 等待吧">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.3.14 华为日">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -531,13 +531,8 @@
       <workItem from="1677896812047" duration="697000" />
       <workItem from="1678069884225" duration="636000" />
       <workItem from="1678085793661" duration="30000" />
-    </task>
-    <task id="LOCAL-00252" summary="2022.11.11 还在拖？">
-      <created>1668132955812</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1668132955812</updated>
+      <workItem from="1678754141385" duration="658000" />
+      <workItem from="1678766465053" duration="18000" />
     </task>
     <task id="LOCAL-00253" summary="2022.11.12 这老师牛">
       <created>1668231768683</created>
@@ -875,7 +870,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678070715645</updated>
     </task>
-    <option name="localTasksCounter" value="301" />
+    <task id="LOCAL-00301" summary="2023.3.14 华为日">
+      <created>1678754203187</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1678754203188</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -915,7 +917,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.12.6 小论文优先" />
     <MESSAGE value="2022.12.10 小论文结束 准备开始回归" />
     <MESSAGE value="2022.12.11 赚钱和学习 冲！" />
     <MESSAGE value="2022.12.16 回家第一天 保持" />
@@ -940,6 +941,7 @@
     <MESSAGE value="2023.2.19 赚钱论文" />
     <MESSAGE value="2023.2.25 论文已交 等待修改 等待专利" />
     <MESSAGE value="2023.3.6 等待吧" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.3.6 等待吧" />
+    <MESSAGE value="2023.3.14 华为日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.3.14 华为日" />
   </component>
 </project>
