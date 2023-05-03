@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.4.2 我希望有好运降临，希望能按时毕业。">
+    <list default="true" id="e42912e6-3872-494a-85de-31b3a09da1be" name="Default Changelist" comment="2023.4.13 满怀希望">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -536,13 +536,8 @@
       <workItem from="1680398431965" duration="223000" />
       <workItem from="1680409385932" duration="598000" />
       <workItem from="1680422902552" duration="27000" />
-    </task>
-    <task id="LOCAL-00254" summary="2022.11.13 心沉浸下来 周赛惨败">
-      <created>1668309956159</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1668309956160</updated>
+      <workItem from="1681383228821" duration="44000" />
+      <workItem from="1681386891929" duration="66000" />
     </task>
     <task id="LOCAL-00255" summary="2022.11.13 心沉浸下来 周赛惨败 沉心">
       <created>1668318689749</created>
@@ -880,7 +875,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680398612560</updated>
     </task>
-    <option name="localTasksCounter" value="303" />
+    <task id="LOCAL-00303" summary="2023.4.13 满怀希望">
+      <created>1681383258462</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1681383258463</updated>
+    </task>
+    <option name="localTasksCounter" value="304" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -920,7 +922,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022.12.11 赚钱和学习 冲！" />
     <MESSAGE value="2022.12.16 回家第一天 保持" />
     <MESSAGE value="2022.12.18 继续论文" />
     <MESSAGE value="2022.12.19 钱和论文 冲" />
@@ -945,6 +946,7 @@
     <MESSAGE value="2023.3.6 等待吧" />
     <MESSAGE value="2023.3.14 华为日" />
     <MESSAGE value="2023.4.2 我希望有好运降临，希望能按时毕业。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.4.2 我希望有好运降临，希望能按时毕业。" />
+    <MESSAGE value="2023.4.13 满怀希望" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.4.13 满怀希望" />
   </component>
 </project>
